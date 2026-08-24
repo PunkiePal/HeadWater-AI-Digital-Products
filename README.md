@@ -11,14 +11,14 @@ Browse our standalone product modules below. Click on any product name to open i
 ### 1. B2B Upstream Alignment Playbook & Outreach Data Engine
 * **Overview:** A strategic operational manual and automated high-throughput data engine designed to align enterprise B2B sales pipelines and accelerate velocity.
 * **License Type:** Standalone Individual Developer License
-* **Price:** $5.99
+* **Price:** $29.
 * **Documentation Hub:** [View Deep-Dive Product Landing Page](./b2b-upstream-alignment-playbook)
 * **Secure Checkout:** [Purchase on Gumroad](https://gumroad.com)
 
 ### 2. Axiom Clean Gen Text Engine: LLM Fine-Tuning Synthetic Data Pipeline
 * **Overview:** A high-throughput, clean text generation framework engineered to clean unstructured data and build optimized JSON datasets for large language model fine-tuning.
 * **License Type:** Standalone Individual Developer License
-* **Price:** $5.99
+* **Price:** $29.
 * **Documentation Hub:** [View Deep-Dive Product Landing Page](./axiom-clean-gen-text-engine)
 * **Secure Checkout:** [Purchase on Gumroad](https://gumroad.com)
 
