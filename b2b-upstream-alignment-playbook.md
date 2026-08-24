@@ -13,4 +13,4 @@ This engine is a complete, high-throughput operational framework engineered to a
 * **Price:** $29
 * **License:** Standalone Individual License
 * **Delivery:** Instant file download via verified purchase receipt.
-* **Secure Checkout:** [Purchase on Gumroad](https://gumroad.com)
+* **Secure Checkout:** [Purchase on Gumroad](https://headwater.gumroad.com/l/b2b-upstream-playbook-individual)
