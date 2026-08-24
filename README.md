@@ -13,18 +13,18 @@ Browse our standalone product modules below. Click on any product name to open i
 * **License Type:** Standalone Individual Developer License
 * **Price:** $29.
 * **Documentation Hub:** [View Deep-Dive Product Landing Page](./b2b-upstream-alignment-playbook)
-* **Secure Checkout:** [Purchase on Gumroad](https://gumroad.com)
+* **Secure Checkout:** [Purchase on Gumroad](https://headwater.gumroad.com/l/b2b-upstream-playbook-individual)
 
 ### 2. Axiom Clean Gen Text Engine: LLM Fine-Tuning Synthetic Data Pipeline
 * **Overview:** A high-throughput, clean text generation framework engineered to clean unstructured data and build optimized JSON datasets for large language model fine-tuning.
 * **License Type:** Standalone Individual Developer License
 * **Price:** $29.
 * **Documentation Hub:** [View Deep-Dive Product Landing Page](./axiom-clean-gen-text-engine)
-* **Secure Checkout:** [Purchase on Gumroad](https://gumroad.com)
+* **Secure Checkout:** [Purchase on Gumroad](https://headwater.gumroad.com/l/axiom-clean-individual-license)
 
 ***
 
-### Support and Technical Operations
+### Support and Technical[ Operations
 For individual license holders requiring technical deployment documentation or module configuration assistance, please visit the specific product folder above or open an issue thread in this repository.
-
+]
 *© 2026 Headwater AI Digital Products LLC. All global rights reserved.*
