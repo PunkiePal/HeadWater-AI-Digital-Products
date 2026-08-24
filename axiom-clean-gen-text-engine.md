@@ -13,4 +13,4 @@ The Axiom Clean Gen Text Engine is a high-throughput data curation and synthetic
 * **Price:** $29
 * **License:** Standalone Individual License
 * **Delivery:** Clean access file and configuration documentation delivered instantly via your verified receipt.
-* **Secure Checkout:** [Purchase on Gumroad](https://gumroad.com)
+* **Secure Checkout:** [Purchase on Gumroad](https://headwater.gumroad.com/l/axiom-clean-individual-license)
