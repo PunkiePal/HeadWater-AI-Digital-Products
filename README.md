@@ -32,7 +32,7 @@ Browse our standalone product modules below. Click on any product name to open i
 * ### 4. Zero Access Security & Technical Manual Generator
 - **Overview**: A secure, automated engineering framework designed to dynamically compile zero-access security architectures and export standardized technical manuals for institutional networks.
 - **License Type**: Standalone Individual Developer License
-- **Price**: $25
+- **Price**: $29
 - **Documentation Hub**: [View Deep-Dive Product Landing Page](./zero-access-security-technical-manual-generator.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://headwater.gumroad.com/l/zero-access-security-manual-individual)
 ***
