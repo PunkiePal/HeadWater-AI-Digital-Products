@@ -22,6 +22,12 @@ Browse our standalone product modules below. Click on any product name to open i
 * **Documentation Hub:** [View Deep-Dive Product Landing Page](./axiom-clean-gen-text-engine)
 * **Secure Checkout:** [Purchase on Gumroad](https://headwater.gumroad.com/l/axiom-clean-individual-license)
 
+### 3. AI-assisted SEO & text layout tool for content optimization
+* **Overview:** A programmatic content engineering framework designed to automate semantic keyword density and optimize text layout hierarchy for search engine algorithms.
+* **License Type:** Standalone Individual Developer License
+* **Price:** $29
+* **Documentation Hub:** [View Deep-Dive Product Landing Page](./ai-assisted-seo-text-layout-tool-content-optimization.md)
+* **Secure Checkout:** [Purchase on Gumroad](https://headwater.gumroad.com/l/seo-layout-tool-individual)
 ***
 
 ### Support and Technical[ Operations
