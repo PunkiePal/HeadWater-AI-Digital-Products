@@ -35,6 +35,13 @@ Browse our standalone product modules below. Click on any product name to open i
 - **Price**: $29
 - **Documentation Hub**: [View Deep-Dive Product Landing Page](./zero-access-security-technical-manual-generator.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://headwater.gumroad.com/l/zero-access-security-manual-individual)
+
+-### 6. Niche Expert AI Fine-Tuning Dataset (Individual Developer License)
+- **Overview**: A highly specialized, programmatically structured training dataset engineered to optimize large language model weights for deep domain expertise and granular niche industry knowledge vectors.
+- **License Type**: Individual Developer License
+- **Price**: **$29**
+- **Documentation Hub**: [View Deep-Dive Product Landing Page](./niche-expert-ai-fine-tuning-dataset.md)
+- **Secure Checkout**: [Purchase on Gumroad](https://headwater.gumroad.com/l/niche-expert-dataset-individual) 
 ***
 
 ### Support and Technical[ Operations
