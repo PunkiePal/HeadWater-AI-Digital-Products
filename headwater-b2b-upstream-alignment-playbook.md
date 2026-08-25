@@ -7,6 +7,7 @@
 
 > Every resource is built to optimize your personal operations 
 > locally and securely without requiring public distribution.
+> 
 
 ### Project Overview
 This operational manual is built to be applied directly to your current project pipeline. It strips away theory, giving you the immediate structural layouts needed to position your digital assets to match the exact evaluation standards used by high-volume corporate buyers. 
