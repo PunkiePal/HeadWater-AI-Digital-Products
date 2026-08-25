@@ -3,6 +3,13 @@
 ## Overview
 A secure, automated engineering framework engineered to programmatically crawl, analyze, and map complex institutional networks, dynamically compiling zero-access security architectures and exporting standardized, compliance-ready technical manuals. This system automates defensive posture documentation for enterprise networks, ensuring complete cryptographic isolation and structural policy validation without manual engineering overhead.
 
+> **Operational Framework Note:** 
+> This individual asset is structured for secure, 
+> private deployment within your individual project pipelines. 
+
+> Every resource is built to optimize your personal operations 
+> locally and securely without requiring public distribution.
+
 - **License Type**: Individual Developer License
 
 ## Use-Case Matrix
