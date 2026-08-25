@@ -1,5 +1,12 @@
   # HeadWater Axiom Clean Gen Text Engine: LLM Fine-Tuning Synthetic Data Pipeline
-## Individual Developer Standalone License
+## Individual Developer License
+
+> **Operational Framework Note:** 
+> This individual asset is structured for secure, 
+> private deployment within your individual project pipelines. 
+
+> Every resource is built to optimize your personal operations 
+> locally and securely without requiring public distribution.
 
 ### Product Overview
 The Axiom Clean Gen Text Engine is a high-throughput data curation and synthetic generation framework. It is engineered specifically to ingest unstructured text assets, remove programmatic noise, and transform raw text arrays into high-integrity, perfectly formatted JSON datasets optimized for large language model fine-tuning architectures.
