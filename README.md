@@ -80,12 +80,12 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 
 > **Operational Framework Note:** This track is structured strictly for procurement officers, engineering departments, and volume corporate project pipelines. These digital assets are engineered for multi-seat deployment, complete data isolation, and enterprise governance.
 
- | Base Framework
+### 📌 Tier 1 | Base Framework
 * **Official Corporate Asset:** Corporate Upstream Alignment Playbook
 * **Enterprise Licensing Fee:** $149.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](./headwater-b2b-upstream-alignment-playbook.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://gumroad.com)
-  
+    
 
 ### 📌 Tier 2 | Content Core
 * **Official Corporate Asset:** Corporate Axiom Clean Gen Text Engine
