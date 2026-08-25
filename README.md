@@ -121,7 +121,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 ### 📌 Tier 6 | Intelligence
 * **Official Corporate Asset:** HeadWater Zero Access Security and Technical Manual Generator (Corporate License)
 * **Enterprise Licensing Fee:** $149.00 USD (Volume License)
-* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](INSERT_TIER6_LANDING_PAGE_URL)
+* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-zero-access-security-and-technical-manual-generator-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](INSERT_TIER6_GUMROAD_URL)
 
 ---
