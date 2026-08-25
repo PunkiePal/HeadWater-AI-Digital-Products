@@ -1,6 +1,5 @@
 # HeadWater B2B Upstream Alignment Playbook & Outreach Data Engine
-## Individual Developer Standalone License
-
+## Individual Developer License
 > **Operational Framework Note:** 
 > This repository master catalog is structured for secure, 
 > private deployment within your individual project pipelines. 
