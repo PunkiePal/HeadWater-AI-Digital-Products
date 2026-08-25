@@ -85,7 +85,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 * **Enterprise Licensing Fee:** $149.00 USD (Volume License)
 ### Technical Specifications & Assets
 * **Operational Gateway:** [View Deep Dive Product Landing Page](./headwater-b2b-upstream-alignment-playbook-corporate.md)
-* **Procurement:** [Purchase Corporate Volume License via Gumroad](https://gumroad.com)
+* **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/b2b-upstream-playbook-corporate)
     
 ### 📌 Tier 2 | Content Core
 * **Official Corporate Asset:** Corporate Axiom Clean Gen Text Engine
