@@ -97,7 +97,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 ### 📌 Tier 3 | Optimization
 * **Official Corporate Asset:** HeadWater Axiom CleanGen Fine-Tuning Text Engineand Synthetic Data Pipeline
 * **Enterprise Licensing Fee:** $149.00 USD (Volume License)
-* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-volume-ingestion-matrix-corporate.md)
+* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-axiom-cleangen-fine-tuning-text-engine-and-synthetic-data-pipeline-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/axiom-clean-engine-llm-synthetic-pipeline-corporate)
 
 ---
