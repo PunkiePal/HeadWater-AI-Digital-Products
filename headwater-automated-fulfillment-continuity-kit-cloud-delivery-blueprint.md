@@ -9,7 +9,7 @@
 > Every resource is built to optimize your personal operations 
 > locally and securely without requiring public distribution.
 
-- **License Type**: Standalone Individual Developer License
+- **License Type**: Individual Developer License
 - **Price**: **$29**
 
 ## Use-Case Matrix
