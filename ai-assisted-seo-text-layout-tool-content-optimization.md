@@ -1,4 +1,4 @@
-# AI-assisted SEO & text layout tool for content optimization
+# HeadWater AI-assisted SEO & text layout tool for content optimization
 ## Individual Developer Standalone License
 
 ### Product Overview
