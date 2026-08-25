@@ -80,8 +80,6 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 
 > **Operational Framework Note:** This track is structured strictly for procurement officers, engineering departments, and volume corporate project pipelines. These digital assets are engineered for multi-seat deployment, complete data isolation, and enterprise governance.
 
-> **Operational Framework Note:** This track is structured strictly for procurement officers, engineering departments, and volume corporate project pipelines. These digital assets are engineered for multi-seat deployment, complete data isolation, and enterprise governance.
-
 ---
 
 ### 📌 Tier 1 | Base Framework
