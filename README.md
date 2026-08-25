@@ -14,14 +14,14 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 - **Overview**: An entry-level operational manual designed to align upstream data architectures, baseline compliance protocols, and strategic platform positioning for technical founders.
 - **License Type**: Individual Developer License
 - **Price**: **$29**
-- **Documentation Hub**: [View Deep-Dive Product Landing Page](./b2b-upstream-alignment-playbook.md)
+- **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-b2b-upstream-alignment-playbook.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://headwater.gumroad.com/l/b2b-upstream-playbook-individual)
 
 #### 2. Headwater Automated B2B Outreach Data Engine & Volume Ingestion Matrix (Individual Developer License)
 - **Overview**: A high-volume, automated transmission engine built to programmatically route outbound data streams, manage target delivery loops, and ingest raw external messaging payloads completely hands-free.
 - **License Type**: Individual Developer License
 - **Price**: **$29**
-- **Documentation Hub**: [View Deep-Dive Product Landing Page](./automated-b2b-outreach-data-engine-volume-ingestion-matrix.md)
+- **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-automated-b2b-outreach-data-engine-volume-ingestion-matrix.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://headwater.gumroad.com/l/automated-b2b-outreach-engine-individual)
 
 ---
