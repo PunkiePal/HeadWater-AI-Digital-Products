@@ -34,14 +34,14 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 - **License Type**: Individual Developer License
 - **Price**: **$29**
 - **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-axiom-clean-gen-text-engine.md)
-- **Secure Checkout**: [Purchase on Gumroad](https://gumroad.com)
+- **Secure Checkout**: [Purchase on Gumroad](https://headwater.gumroad.com/l/axiom-clean-individual-license)
 
 #### 4. Headwater AI-Assisted SEO Text Layout Tool & Content Optimization Framework (Individual Developer License)
 - **Overview**: A programmatic content engineering framework designed to automate semantic keyword density and optimize text layout hierarchy for search engine algorithms.
 - **License Type**: Individual Developer License
 - **Price**: **$29**
 - **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-ai-assisted-seo-text-layout-tool-content-optimization.md)
-- **Secure Checkout**: [Purchase on Gumroad](https://gumroad.com)
+- **Secure Checkout**: [Purchase on Gumroad](https://headwater.gumroad.com/l/seo-layout-tool-individual)
 
 ---
 
