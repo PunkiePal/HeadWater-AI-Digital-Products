@@ -1,4 +1,4 @@
-# B2B Upstream Alignment Playbook & Outreach Data Engine
+# HeadWater B2B Upstream Alignment Playbook & Outreach Data Engine
 ## Individual Developer Standalone License
 
 ### Product Overview
