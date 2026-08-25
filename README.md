@@ -130,7 +130,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 * **Official Corporate Asset:** HeadWater Niche Expert AI Fine-Tuning Dataset (Corporate License)
 * **Enterprise Licensing Fee:** $149.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-niche-expert-ai-fine-tuning-dataset-corporate.md)
-* **Procurement:** [Purchase Corporate Volume License via Gumroad](INSERT_TIER7_GUMROAD_URL)
+* **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/niche-expert-dataset-corporate)
 ## 📅 TRACK B: Corporate Enterprise License Framework
 
 > **Coming Soon** — Institutional multi-user deployments.
