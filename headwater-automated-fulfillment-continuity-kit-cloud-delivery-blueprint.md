@@ -20,4 +20,4 @@ A highly programmatic orchestration matrix engineered to automate digital produc
 ---
 
 ## License Checkout
-* **Secure Checkout**: [Purchase Standalone Individual Developer License on Gumroad](https://headwater.gumroad.com/l/automated-continuity-kit-individual)
+* **Secure Checkout**: [Purchase Individual Developer License on Gumroad](https://headwater.gumroad.com/l/automated-continuity-kit-individual)
