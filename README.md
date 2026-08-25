@@ -112,6 +112,17 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
   </url>
 </urlset>
 
+## 🏢 TRACK B: Corporate & Enterprise Volume Licenses
+> **Operational Framework Note:** This track is structured strictly for procurement officers, engineering departments, and high-volume corporate project pipelines. These digital assets are engineered for multi-seat deployment, complete data isolation, and enterprise governance.
+
+* **[Tier 1 | Base Framework]** [Corporate Upstream Alignment Playbook](./corporate/1-corporate-upstream-alignment-playbook.md)
+* **[Tier 2 | Content Core]** [Corporate Axiom Clean Gen Text Engine](./corporate/2-corporate-axiom-clean-gen-text-engine.md)
+* **[Tier 3 | Optimization]** [Corporate Assisted SEO Text Layout Tool](./corporate/3-corporate-assisted-seo-text-layout-tool.md)
+* **[Tier 4 | Infrastructure]** [Corporate Automated Fulfillment Continuity Kit](./corporate/4-corporate-automated-fulfillment-blueprint.md)
+* **[Tier 5 | Data Scaling]** [Corporate Automated B2B Outreach Data Engine](./corporate/5-corporate-high-volume-ingestion-matrix.md)
+* **[Tier 6 | Intelligence]** [Corporate Niche Expert AI Fine-Tuning Dataset](./corporate/6-corporate-niche-expert-ai-dataset.md)
+* **[Tier 7 | System Security]** [Corporate Zero-Access Security Technical Manual Generator](./corporate/7-corporate-zero-access-security-generator.md)
+
 ---
 
 ## 🏢 TRACK B: Corporate Enterprise License Framework
