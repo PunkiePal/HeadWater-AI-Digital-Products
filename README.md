@@ -14,14 +14,14 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 - **Overview**: An entry-level operational manual designed to align upstream data architectures, baseline compliance protocols, and strategic platform positioning for technical founders.
 - **License Type**: Individual Developer License
 - **Price**: **$29**
-- **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-b2b-upstream-alignment-playbook.md)
+- **Documentation Hub**: [View Deep-Dive Product Landing Page](./b2b-upstream-alignment-playbook.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://gumroad.com)
 
 #### 2. Headwater Automated B2B Outreach Data Engine & Volume Ingestion Matrix (Individual Developer License)
 - **Overview**: A high-volume, automated transmission engine built to programmatically route outbound data streams, manage target delivery loops, and ingest raw external messaging payloads completely hands-free.
 - **License Type**: Individual Developer License
 - **Price**: **$29**
-- **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-automated-b2b-outreach-data-engine-volume-ingestion-matrix.md)
+- **Documentation Hub**: [View Deep-Dive Product Landing Page](./automated-b2b-outreach-data-engine-volume-ingestion-matrix.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://gumroad.com)
 
 ---
@@ -33,14 +33,14 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 - **Overview**: A high-throughput, clean text generation framework engineered to clean unstructured data and build optimized synthetic datasets for large language models.
 - **License Type**: Individual Developer License
 - **Price**: **$29**
-- **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-axiom-clean-gen-text-engine.md)
+- **Documentation Hub**: [View Deep-Dive Product Landing Page](./axiom-clean-gen-text-engine.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://gumroad.com)
 
 #### 4. Headwater AI-Assisted SEO Text Layout Tool & Content Optimization Framework (Individual Developer License)
 - **Overview**: A programmatic content engineering framework designed to automate semantic keyword density and optimize text layout hierarchy for search engine algorithms.
 - **License Type**: Individual Developer License
 - **Price**: **$29**
-- **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-ai-assisted-seo-text-layout-tool-content-optimization.md)
+- **Documentation Hub**: [View Deep-Dive Product Landing Page](./ai-assisted-seo-text-layout-tool-content-optimization.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://gumroad.com)
 
 ---
@@ -59,14 +59,14 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 - **Overview**: A secure, automated engineering framework designed to dynamically compile zero-access security architectures and export standardized technical manuals for institutional networks.
 - **License Type**: Individual Developer License
 - **Price**: **$29**
-- **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-zero-access-security-technical-manual-generator.md)
+- **Documentation Hub**: [View Deep-Dive Product Landing Page](./zero-access-security-technical-manual-generator.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://gumroad.com)
 
 #### 7. Headwater Niche Expert AI Fine-Tuning Dataset (Individual Developer License)
 - **Overview**: A highly specialized, programmatically structured training dataset engineered to optimize large language model weights for deep domain expertise and granular niche industry knowledge vectors.
 - **License Type**: Individual Developer License
 - **Price**: **$29**
-- **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-niche-expert-ai-fine-tuning-dataset.md)
+- **Documentation Hub**: [View Deep-Dive Product Landing Page](./niche-expert-ai-fine-tuning-dataset.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://gumroad.com)
 
 ---
