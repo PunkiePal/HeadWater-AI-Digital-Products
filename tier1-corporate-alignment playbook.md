@@ -25,8 +25,6 @@ This repository serves as the official documentation and deployment gateway for 
 ### Secure Corporate Portal
 Enterprise purchase verification and asset licensing are managed through our verified platform portal. Select the appropriate operational bundle below to secure your deployment keys and repository access tokens.
 
-* **Corporate Individual Module License:** $149 per module
-* **Tier 1 Enterprise Master Operations Suite (Full Bundle):** $599
 
 [Secure Corporate Procurement Portal](https://gumroad.com)
 
