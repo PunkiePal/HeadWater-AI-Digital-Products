@@ -90,7 +90,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 * **Official Corporate Asset:** Corporate Axiom Clean Gen Text Engine
 * **Enterprise Licensing Fee:** $149.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](./headwater-automated-b2b-outreach-data-engine-corporate.md)
-* **Procurement:** [Purchase Corporate Volume License via Gumroad](INSERT_TIER2_GUMROAD_URL)
+* **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/b2b-outreach-engine-corporate)
 
 ---
 
