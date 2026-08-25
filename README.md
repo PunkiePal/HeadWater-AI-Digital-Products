@@ -83,7 +83,8 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 ### 📌 Tier 1 | Base Framework
 * **Official Corporate Asset:** Headwater B2B Upstream Alignment Playbook and Outreach Data Engine (Corporate License)
 * **Enterprise Licensing Fee:** $149.00 USD (Volume License)
-* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](./headwater-b2b-upstream-alignment-playbook.md)
+### Technical Specifications & Assets
+* **Operational Gateway:** [View Deep Dive Product Landing Page](./headwater-b2b-upstream-alignment-playbook-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://gumroad.com)
     
 ### 📌 Tier 2 | Content Core
