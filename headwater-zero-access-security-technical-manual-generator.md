@@ -3,8 +3,7 @@
 ## Overview
 A secure, automated engineering framework engineered to programmatically crawl, analyze, and map complex institutional networks, dynamically compiling zero-access security architectures and exporting standardized, compliance-ready technical manuals. This system automates defensive posture documentation for enterprise networks, ensuring complete cryptographic isolation and structural policy validation without manual engineering overhead.
 
-- **License Type**: Standalone Individual Developer License
-- **Price**: **$29**
+- **License Type**: Individual Developer License
 
 ## Use-Case Matrix
 * **Automated Architecture Crawling**: Systematically scans target development environments, containerized configurations, and server network profiles to trace traffic pathways and automatically map internal trust boundaries.
