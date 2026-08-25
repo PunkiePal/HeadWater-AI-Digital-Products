@@ -76,6 +76,42 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 - **Documentation Hub**: [View Deep-Dive Product Landing Page](./headwater-niche-expert-ai-fine-tuning-dataset.md)
 - **Secure Checkout**: [Purchase on Gumroad](https://headwater.gumroad.com/l/niche-expert-dataset-individual)
 
+- <?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+  <url>
+    <loc>https://github.com</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://github.com/blob/main/headwater-b2b-upstream-alignment-playbook.md</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://github.com/blob/main/headwater-automated-b2b-outreach-data-engine-volume-ingestion-matrix.md</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://github.com/blob/main/headwater-automated-fulfillment-continuity-kit-cloud-delivery-blueprint.md</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://github.com/blob/main/headwater-assisted-seo-text-layout-tool-contextual-refinement-utility.md</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://github.com/blob/main/headwater-axiom-clean-gen-text-engine.md</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://github.com/blob/main/headwater-niche-expert-ai-fine-tuning-dataset.md</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://github.com/blob/main/headwater-zero-access-security-technical-manual-generator.md</loc>
+    <priority>0.80</priority>
+  </url>
+</urlset>
+
 ---
 
 ## 🏢 TRACK B: Corporate Enterprise License Framework
