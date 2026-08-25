@@ -22,7 +22,7 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 - **License Type**: Individual Developer License
 - **Price**: **$29**
 - **Documentation Hub**: [View Deep-Dive Product Landing Page](./automated-b2b-outreach-data-engine-volume-ingestion-matrix.md)
-- **Secure Checkout**: [Purchase on Gumroad](https://gumroad.com)
+- **Secure Checkout**: [Purchase on Gumroad](https://headwater.gumroad.com/l/automated-b2b-outreach-engine-individual)
 
 ---
 
