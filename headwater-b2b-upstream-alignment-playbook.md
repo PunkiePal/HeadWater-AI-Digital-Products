@@ -1,5 +1,5 @@
 # Corporate Tier Level One: HeadWater B2B Operational Foundation
-## HeadWater Corporate Enterprise Architecture & Alignment
+## Corporate HeadWater Enterprise Architecture & Alignment
 
 This repository delivers the production-grade deployment framework and technical specifications for the HeadWater B2B Upstream Alignment Playbook and Outreach Data Engine under the authorized Corporate Tier Level One tier. This unified framework is engineered specifically for corporate networks requiring high-volume execution, deep systems coordination, and strict operational compliance across multi-user environments.
 
