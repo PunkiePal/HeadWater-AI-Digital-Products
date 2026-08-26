@@ -84,7 +84,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 * **Asset Name:** HeadWater B2B Upstream Alignment Playbook and Outreach Data Engine
 * **Tier Price:** $149
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-b2b-upstream-alignment-playbook.md)
-* **Procurement:** [Purchase Corporate Volume License via Gumroad](https://gumroad.com)
+* **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/headwater-corporate-tier-1)
 
 #### 🛠️ Module & Asset Manifest
 This tier delivers your entry-point corporate operational architecture as a singular, high-value combined package. For a single tier purchase of $149, corporate buyers secure full licensing for both foundational operational assets:
