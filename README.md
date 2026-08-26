@@ -88,7 +88,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
     
 ### 📌 Tier 2 | Content Core
 * **Official Corporate Asset:** HeadWater Automated B2B Outreach Data Engine (Corporate License)
-* **Enterprise Licensing Fee:** $149.00 USD (Volume License)
+* **Enterprise Licensing Fee:** $299.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](./headwater-automated-b2b-outreach-data-engine-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/b2b-outreach-engine-corporate)
 
@@ -96,7 +96,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 
 ### 📌 Tier 3 | Optimization
 * **Official Corporate Asset:** HeadWater Axiom CleanGen Fine-Tuning Text Engineand Synthetic Data Pipeline
-* **Enterprise Licensing Fee:** $149.00 USD (Volume License)
+* **Enterprise Licensing Fee:** $449.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-axiom-cleangen-fine-tuning-text-engine-and-synthetic-data-pipeline-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/axiom-clean-engine-llm-synthetic-pipeline-corporate)
 
@@ -104,7 +104,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 
 ### 📌 Tier 4 | Infrastructure
 * **Official Corporate Asset:** HeadWater AI-Assisted SEO and Text Layout Tool for High-Volume Digital Publishing (Corporate License)
-* **Enterprise Licensing Fee:** $149.00 USD (Volume License)
+* **Enterprise Licensing Fee:** $649.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-ai-assisted-seo-and-text-layout-tool-for-high-volume-digital-publishing-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/seo-layout-tool-corporate)
 
@@ -112,7 +112,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 
 ### 📌 Tier 5 | Data Scaling
 * **Official Corporate Asset:** HeadWater Automated Fulfillment Continuity Kit and Cloud Delivery Blueprint (Corporate License)
-* **Enterprise Licensing Fee:** $149.00 USD (Volume License)
+* **Enterprise Licensing Fee:** $899.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-automated-fulfillment-continuity-kit-and-cloud-delivery-blueprint-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/automated-continuity-kit-corporate)
 
@@ -120,7 +120,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 
 ### 📌 Tier 6 | Intelligence
 * **Official Corporate Asset:** HeadWater Zero Access Security and Technical Manual Generator (Corporate License)
-* **Enterprise Licensing Fee:** $149.00 USD (Volume License)
+* **Enterprise Licensing Fee:** $1,199.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-zero-access-security-and-technical-manual-generator-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/corporate-zero-access-security-manual)
 
@@ -128,7 +128,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 
 ### 📌 Tier 7 | System Security
 * **Official Corporate Asset:** HeadWater Niche Expert AI Fine-Tuning Dataset (Corporate License)
-* **Enterprise Licensing Fee:** $149.00 USD (Volume License)
+* **Enterprise Licensing Fee:** $1,699.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-niche-expert-ai-fine-tuning-dataset-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/niche-expert-dataset-corporate)
 ## 📅 TRACK B: Corporate Enterprise License Framework
