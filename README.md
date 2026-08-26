@@ -96,11 +96,22 @@ This package functions strictly as an individual tier level purchase. Acquisitio
 Use code with caution.
 
     
-### 📌 Tier 2 | Content Core
+### 📌 Corporate Tier | Level Two: HeadWater Content Core
 * **Official Corporate Asset:** HeadWater Automated B2B Outreach Data Engine (Corporate License)
 * **Enterprise Licensing Fee:** $299.00 USD (Volume License)
-* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](./headwater-automated-b2b-outreach-data-engine-corporate.md)
-* **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/b2b-outreach-engine-corporate)
+* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](tier2-corporate-outreach-engine.md)
+* **Procurement:** [Purchase Corporate Volume License via Gumroad](https://gumroad.com)
+
+#### 🛠️ Module & Asset Manifest
+This tier unlocks your primary audience extraction engine and high-throughput B2B outbound marketing infrastructure. For an individual tier purchase of $299, corporate buyers secure the live functional software core designed to automate lead generation pipelines and scale market reach:
+1. **The HeadWater Outreach Data Engine:** Production-ready backend script pipelines built to scan target industries, ingest external signal streams, handle automated target company profiling, and execute automated contact discovery.
+2. **Enterprise Pipeline Integration Specs:** Complete data governance layouts and system connection schemas required to route freshly cleaned, validated lead assets directly into multi-user corporate project environments without manual data entry.
+
+#### ⚠️ Individual Tier Purchase Protocol Notice
+This package functions strictly as an individual tier level purchase. Acquisition of Corporate Tier Level Two provides exclusive access to the specialized data pipeline systems, extraction configurations, and backend automation scripts listed within this specific module. It does not inherit, link to, or contain files or software assets from lower tier levels (such as Tier One) or higher tier levels within the 7-tier catalog system. Each tier must be purchased separately.
+
+
+Use code with caution.
 
 ---
 
