@@ -1,4 +1,6 @@
-# Headwater Automated B2B Outreach Data Engine (Corporate License)
+# Corporate Tier | Level Two: HeadWater Automated B2B Outreach Data Engine
+
+## Corporate | HeadWater High-Throughput Audience Extraction Infrastructure
 
 ## Product Tier
 * **Category:** Corporate Track
