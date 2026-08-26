@@ -80,11 +80,20 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 
 Operational Framework Note: This track delivers a suite of high-utility corporate assets engineered to give your organization complete operational freedom, flexibility, and standalone workspace agility across internal workflows. Each modular asset functions as a localized, independent engine designed to isolate data environments and run optimally within a single specific business division, dedicated regional hub, or isolated operational pipeline. By intentionally supporting decentralized infrastructure rather than forcing a shared server model, this cellular architectural design protects proprietary internal security and ensures peak functional performance within its targeted sector, naturally allowing organizations to scale independent deployment instances to match the unique structure of each operating branch, separate department, or regional project team.
 
-### 📌 Tier 1 | Base Framework
-* **Official Corporate Asset:** Headwater B2B Upstream Alignment Playbook and Outreach Data Engine (Corporate License)
-* **Enterprise Licensing Fee:** $149.00 USD (Volume License)
-* **Operational Gateway:** [View Deep Dive Product Landing Page](./headwater-b2b-upstream-alignment-playbook-corporate.md)
-* **Procurement:** [Purchase Corporate Volume License via Gumroad](https://headwater.gumroad.com/l/b2b-upstream-playbook-corporate)
+### 📦 Corporate Tier Level One: B2B Operational Foundation
+* **Asset Name:** HeadWater B2B Upstream Alignment Playbook and Outreach Data Engine
+* **Tier Price:** $149
+* **Deep-Dive Documentation:** tier1-corporate-alignment-playbook.md
+* **Storefront Access:** [Gumroad Purchase Link]
+
+#### 🛠️ Module & Asset Manifest
+This tier delivers your entry-point corporate operational architecture as a singular, high-value combined package. For a single tier purchase of $149, corporate buyers secure full licensing for both foundational operational assets:
+1. **The Alignment Playbook:** Complete strategic frameworks, diagnostic layouts, and corporate client alignment workflows.
+2. **The Outreach Data Engine:** Production-ready backend pipeline code, automated system architecture configurations, and core communication files.
+
+#### ⚠️ Individual Tier Purchase Protocol
+This package functions strictly as an individual tier level purchase. Acquisition of Corporate Tier Level One provides exclusive access to the files, code, and documentation listed within this specific module. It does not inherit, link to, or grant access to software, files, or data engines from higher tier levels within the 7-tier catalog system. Higher levels must be purchased separately.
+Use code with caution.
     
 ### 📌 Tier 2 | Content Core
 * **Official Corporate Asset:** HeadWater Automated B2B Outreach Data Engine (Corporate License)
