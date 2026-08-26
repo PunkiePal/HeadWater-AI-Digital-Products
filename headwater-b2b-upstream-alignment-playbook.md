@@ -29,4 +29,4 @@ This repository asset functions strictly under a single, standalone tier license
 
 ---
 
-[Return to Main HeadWater Repository Catalog](README.md) | [Proceed to Secure HeadWater Gumroad Procurement Checkout](https://gumroad.com)
+[Return to Main HeadWater Repository Catalog](README.md) | [Proceed to Secure HeadWater Gumroad Procurement Checkout](https://headwater.gumroad.com/l/headwater-corporate-tier-1)
