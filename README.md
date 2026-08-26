@@ -96,15 +96,15 @@ This package functions strictly as an individual tier level purchase. Acquisitio
 Use code with caution.
 
     
-### 📌 Corporate Tier | Level Two: HeadWater Content Core
+### 📌 Corporate Tier | Level Two: HeadWater Automated B2B Outreach Data Engine
 * **Official Corporate Asset:** HeadWater Automated B2B Outreach Data Engine (Corporate License)
 * **Enterprise Licensing Fee:** $299.00 USD (Volume License)
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](tier2-corporate-outreach-engine.md)
 * **Procurement:** [Purchase Corporate Volume License via HeadWater Gumroad Storefront](https://gumroad.com)
 
 #### 🛠️ HeadWater Module & Asset Manifest
-This tier unlocks your primary HeadWater audience extraction engine and high-throughput HeadWater B2B outbound marketing infrastructure. For an individual tier purchase of $299, corporate buyers secure the live functional HeadWater software core designed to automate lead generation pipelines and scale market reach:
-1. **The HeadWater Outreach Data Engine:** Production-ready backend HeadWater script pipelines built to scan target industries, ingest external signal streams, handle automated target company profiling, and execute automated HeadWater contact discovery.
+This tier unlocks your primary HeadWater automated audience extraction engine and high-throughput B2B outbound marketing infrastructure. For an individual tier purchase of $299, corporate buyers secure the live functional HeadWater software core designed to automate lead generation pipelines and scale market reach:
+1. **The HeadWater Outreach Data Engine:** Production-ready backend HeadWater script pipelines (`b2b_outreach_engine_corporate.py`) built to scan target industries, ingest external signal streams, handle automated target company profiling, and execute automated HeadWater contact discovery.
 2. **HeadWater Enterprise Pipeline Integration Specs:** Complete HeadWater data governance layouts and system connection schemas required to route freshly cleaned, validated lead assets directly into multi-user corporate project environments.
 
 #### ⚠️ Individual HeadWater Tier Purchase Protocol Notice
