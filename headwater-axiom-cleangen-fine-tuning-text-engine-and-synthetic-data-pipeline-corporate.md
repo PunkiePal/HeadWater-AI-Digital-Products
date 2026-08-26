@@ -1,4 +1,4 @@
-# Headwater Axiom CleanGen Fine-Tuning Text Engine and Synthetic Data Pipeline (Corporate License)
+# Headwater Axiom CleanGen Fine-Tuning Text Engine and Synthetic Data Pipeline 
 
 ## Product Tier
 * **Category:** Corporate Track
