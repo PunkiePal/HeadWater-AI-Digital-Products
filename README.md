@@ -119,7 +119,7 @@ Use code with caution.
 ### 🚀 Corporate Tier | Level Three: HeadWater Optimization Matrix
 * **Official Corporate Asset:** HeadWater Axiom CleanGen Fine-Tuning Text Engine and Synthetic Data Pipeline
 * **Enterprise Licensing Fee:** $449.00 USD 
-* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-axiom-cleangen-engine.md)
+* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-axiom-cleangen-fine-tuning-text-engine-and synthetic-data-pipeline-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via HeadWater Gumroad Storefront](https://gumroad.com)
 
 #### 🛠️ HeadWater Module & Asset Manifest
