@@ -83,7 +83,7 @@ Operational Framework Note: This track delivers a suite of high-utility corporat
 ### 📦 Corporate Tier Level One: B2B Operational Foundation
 * **Asset Name:** HeadWater B2B Upstream Alignment Playbook and Outreach Data Engine
 * **Tier Price:** $149
-* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](tier1-corporate-alignment-playbook.md)
+* **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-b2b-upstream-alignment-playbook.md)
 * **Procurement:** [Purchase Corporate Volume License via Gumroad](https://gumroad.com)
 
 #### 🛠️ Module & Asset Manifest
