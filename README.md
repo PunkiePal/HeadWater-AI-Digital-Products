@@ -98,8 +98,8 @@ Use code with caution.
 
     
 ### 📌 Corporate Tier | Level Two: HeadWater Automated B2B Outreach Data Engine
-* **Official Corporate Asset:** HeadWater Automated B2B Outreach Data Engine (Corporate License)
-* **Enterprise Licensing Fee:** $299.00 USD (Volume License)
+* **Official Corporate Asset:** HeadWater Automated B2B Outreach Data Engine 
+* **Enterprise Licensing Fee:** $299.00 USD 
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-automated-b2b-outreach-data-engine-corporate.md)
 * **Procurement:** [Purchase Corporate Volume License via HeadWater Gumroad Storefront](https://gumroad.com)
 
