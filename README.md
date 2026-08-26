@@ -123,7 +123,7 @@ Use code with caution.
 * **Procurement:** [Purchase Corporate Volume License via HeadWater Gumroad Storefront](https://headwater.gumroad.com/l/corporate-tier-three-headwater-axiom-clean)
 
 #### 🛠️ HeadWater Module & Asset Manifest
-This tier unlocks your advanced high-volume optimization models and backend schema restructuring systems. For an individual tier purchase of $399, corporate networks secure the dedicated backend components engineered to build automated model training environments and optimize localized operational scripts:
+This tier unlocks your advanced high-volume optimization models and backend schema restructuring systems. For an individual tier purchase of $449.00, corporate networks secure the dedicated backend components engineered to build automated model training environments and optimize localized operational scripts:
 1. **The HeadWater Fine-Tuning Text Engine:** Production-ready architectures designed to process large text files, structure validation datasets, and train bespoke corporate domain models.
 2. **The Synthetic Data Pipeline:** Live infrastructure schemas and generation code configurations built to programmatically build, clean, and output production-ready synthetic data packages at scale.
 
