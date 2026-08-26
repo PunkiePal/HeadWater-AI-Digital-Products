@@ -80,7 +80,7 @@ Welcome to the official master catalog for Headwater AI Digital Products LLC. We
 
 Operational Framework Note: This track delivers a suite of high-utility corporate assets engineered to give your organization complete operational freedom, flexibility, and standalone workspace agility across internal workflows. Each modular asset functions as a localized, independent engine designed to isolate data environments and run optimally within a single specific business division, dedicated regional hub, or isolated operational pipeline. By intentionally supporting decentralized infrastructure rather than forcing a shared server model, this cellular architectural design protects proprietary internal security and ensures peak functional performance within its targeted sector, naturally allowing organizations to scale independent deployment instances to match the unique structure of each operating branch, separate department, or regional project team.
 
-### 📦 Corporate Tier Level One: HeadWater B2B Alignment Playbook & Outreach Data Engine
+### 📦 Corporate Tier | Level One: HeadWater B2B Alignment Playbook & Outreach Data Engine
 * **Asset Name:** HeadWater B2B Upstream Alignment Playbook and Outreach Data Engine
 * **Tier Price:** $149 USD
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-b2b-upstream-alignment-playbook.md)
