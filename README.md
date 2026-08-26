@@ -101,7 +101,7 @@ Use code with caution.
 * **Official Corporate Asset:** HeadWater Automated B2B Outreach Data Engine 
 * **Enterprise Licensing Fee:** $299.00 USD 
 * **Technical Specifications & Assets:** [View Deep-Dive Product Landing Page](headwater-automated-b2b-outreach-data-engine-corporate.md)
-* **Procurement:** [Purchase Corporate Volume License via HeadWater Gumroad Storefront](https://gumroad.com)
+* **Procurement:** [Purchase Corporate Volume License via HeadWater Gumroad Storefront](https://headwater.gumroad.com/l/headwater-corporate-tier-2)
 
 #### 🛠️ HeadWater Module & Asset Manifest
 This tier unlocks your primary HeadWater automated audience extraction engine and high-throughput B2B outbound marketing infrastructure. For an individual tier purchase of $299, corporate buyers secure the live functional HeadWater software core designed to automate lead generation pipelines and scale market reach:
