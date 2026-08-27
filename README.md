@@ -87,6 +87,7 @@ This repository serves as the official corporate information hub and deployment 
 * **Asset Classification:** Operational Phase One Launch Foundation
 * **Pricing Structure:** $149,000 USD
 * **Operational Scope:** Core upstream positioning mechanics, initial market outreach engine deployment, and localized pipeline initialization tracking.
+* • Secure Checkout: [▶ Route Treasury Funds & Authorize Tier 1 Purchase via Stripe](https://buy.stripe.com/9B66oH2Ct9becE2fow8bS01)
 
 ## Corporate Tier 2: HeadWater Automated B2B Outreach Data Engine
 * **Asset Classification:** Enterprise Pipeline Scale Framework
