@@ -128,29 +128,6 @@ The following table details how the **Headwater Unrestricted Framework** deliver
   </tr>
 </table>
 
-### 1️⃣ B2B Upstream Alignment Playbook
-* **Active Repository File:** `headwater-b2b-upstream-alignment-playbook-corporate.md`
-* **Operational Focus:** Establishes a structured, sequential methodology for identifying and matching enterprise customer demand vectors prior to outbound resource commitment.
-* **Corporate Asset Value:** `$149,000 USD`
-* **Secure Procurement Portal:** 👉 **[Acquire Standalone Playbook License via Lemon Squeezy](YOUR_LEMON_SQUEEZY_LINK_HERE)**
-
-### 2️⃣ Automated Outreach Data Engine
-* **Active Repository File:** `headwater-automated-b2b-outreach-data-engine.md`
-* **Operational Focus:** Provides the programmatic logic required to drive high-volume informational flows across the web safely, cleanly, and with total formatting predictability.
-* **Corporate Asset Value:** `$149,000 USD`
-* **Secure Procurement Portal:** 👉 **[Acquire Standalone Data Engine License via Lemon Squeezy](YOUR_LEMON_SQUEEZY_LINK_HERE)**
-
-### 3️⃣ Automated Fulfillment Continuity Kit
-* **Active Repository File:** `headwater-automated-fulfillment-continuity-kit.md`
-* **Operational Focus:** Comprehensive operational parameters needed to ensure that once a corporate connection is established, delivery executes flawlessly without human bottlenecks.
-* **Corporate Asset Value:** `$149,000 USD`
-* **Secure Procurement Portal:** 👉 **[Acquire Standalone Fulfillment License via Lemon Squeezy](YOUR_LEMON_SQUEEZY_LINK_HERE)**
-
-### 4️⃣ Axiom Clean Gen Text Engine
-* **Active Repository File:** `headwater-axiom-clean-gen-text-engine.md`
-* **Operational Focus:** Standardizes and sanitizes text pipelines to eliminate compliance risk and maintain an pristine corporate voice during market interactions.
-* **Corporate Asset Value:** `$149,000 USD`
-* **Secure Procurement Portal:** 👉 **[Acquire Standalone Text Engine License via Lemon Squeezy](YOUR_LEMON_SQUEEZY_LINK_HERE)**
 
 ---
 
