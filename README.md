@@ -433,6 +433,12 @@ That distinction is critical.
 
 Some differences carry business meaning.
 
+---
+
+### Return to the Top
+
+[↑ Back to the Top](#headwater-b2b-data-purification--ai-ingestion-playbook)
+
 Other differences are simply artifacts of how information was entered, formatted, stored, transferred, or generated.
 
 An AI processing environment benefits from being able to treat those situations appropriately rather than allowing every difference to become an uncontrolled variable.
