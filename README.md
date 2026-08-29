@@ -43,4 +43,4 @@ Developers waste hours fixing broken token layouts or troubleshooting hallucinat
 * **Frictionless Delivery:** Immediate download of the master text asset right after secure checkout.
 * **Developer License:** Single-user runtime access parameters for internal workflow integration under Headwater jurisdiction.
 
-➡️ **[Secure Your Copy Now for $49 via the Live Storefront](https://headwater.gumroad.com/l/b2b-purification-playbook)**
+➡️ **[Secure Your Copy Now for $199 via the Live Storefront](https://headwater.gumroad.com/l/b2b-purification-playbook)**
