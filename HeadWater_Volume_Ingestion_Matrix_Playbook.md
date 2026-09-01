@@ -1,6 +1,6 @@
 # 🪄 HeadWater Volume Ingestion Matrix Playbook
 
-### | Operational Architecture Blueprint
+###  Operational Architecture Blueprint
 
 An enterprise-grade, text-based blueprint designed by HeadWater AI to fix formatting crashes, eliminate semantic bleed, and purify raw B2B data before it enters AI engines or vector databases.
 
