@@ -1,11 +1,10 @@
   # HeadWater Axiom CleanGen Text Engine: LLM Fine-Tuning Synthetic Data Pipeline
-## Individual Developer License
 
 > **Operational Framework Note:** 
-> This individual asset is structured for secure, 
-> private deployment within your individual project pipelines. 
+> This asset is structured for secure, 
+> private deployment within your project pipelines. 
 
-> Every resource is built to optimize your personal operations 
+> Every resource is built to optimize your operations 
 > locally and securely without requiring public distribution.
 
 ### Product Overview
