@@ -1,4 +1,4 @@
-HeadWater Automated B2B Outreach Data Engine
+**HeadWater Automated B2B Outreach Data Engine**
 
 ## HeadWater High-Throughput Audience Extraction Infrastructure
 
