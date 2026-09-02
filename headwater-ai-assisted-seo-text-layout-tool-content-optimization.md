@@ -16,6 +16,5 @@ The AI-assisted SEO & text layout tool for content optimization is a programmati
 * **Structural Text Hierarchy Mapping:** Automatic layout generators that structure H1, H2, and bullet structures to keep search bots indexing deep into the site directory.
 
 ### Secure Fulfillment
-* **Price:** $29
 * **License:** Standalone Individual License
 * **Delivery:** Clean markdown layout templates and configuration files delivered instantly via your verified receipt.
