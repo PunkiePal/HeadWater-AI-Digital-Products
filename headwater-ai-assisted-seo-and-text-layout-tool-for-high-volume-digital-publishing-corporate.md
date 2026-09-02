@@ -1,4 +1,4 @@
-# Headwater AI-Assisted SEO and Text Layout Tool for High-Volume Digital Publishing (Corporate License)
+# Headwater AI-Assisted SEO and Text Layout Tool for High-Volume Digital Publishing
 
 ## Product Tier
 * **Category:** Corporate Track
