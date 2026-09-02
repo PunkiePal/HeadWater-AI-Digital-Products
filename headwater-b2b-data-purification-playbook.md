@@ -1,6 +1,6 @@
 
 # 📈 Headwater B2B Data Purification & AI Ingestion Playbook
-> **The Individual Developer License — Operational Architecture Blueprint**
+Operational Architecture Blueprint**
 
 An enterprise-grade, text-based blueprint designed by Headwater AI to fix formatting crashes, eliminate semantic bleed, and purify raw B2B data before it enters AI engines or vector databases.
 
