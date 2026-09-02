@@ -1,4 +1,4 @@
-  # HeadWater Axiom Clean Gen Text Engine: LLM Fine-Tuning Synthetic Data Pipeline
+  # HeadWater Axiom CleanGen Text Engine: LLM Fine-Tuning Synthetic Data Pipeline
 ## Individual Developer License
 
 > **Operational Framework Note:** 
