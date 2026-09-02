@@ -1,4 +1,4 @@
-# Headwater Automated Fulfillment Continuity Kit and Cloud Delivery Blueprint (Corporate License)
+# Headwater Automated Fulfillment Continuity Kit and Cloud Delivery Blueprint
 
 ## Product Tier
 * **Category:** Corporate Track
