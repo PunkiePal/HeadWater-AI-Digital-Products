@@ -19,4 +19,3 @@ The AI-assisted SEO & text layout tool for content optimization is a programmati
 * **Price:** $29
 * **License:** Standalone Individual License
 * **Delivery:** Clean markdown layout templates and configuration files delivered instantly via your verified receipt.
-* **Secure Checkout:** [Purchase on Gumroad](https://headwater.gumroad.com/l/seo-layout-tool-individual)
