@@ -4,7 +4,7 @@
 
 An enterprise-grade, text-based blueprint designed by HeadWater AI to fix formatting crashes, eliminate semantic bleed, and purify raw B2B data before it enters AI engines or vector databases.
 
-➡️ [CLICK HERE TO PURCHASE THE COMPLETE ARCHITECTURE FOR $2999](https://buy.stripe.com/fZu14n0ulbjm5bA5NW8bS02)
+➡️ [CLICK HERE TO PURCHASE THE COMPLETE ARCHITECTURE FOR $2999](https://buy.stripe.com/5kQeVdelb0EIfQe4JS8bS03)
 
 ---
 
