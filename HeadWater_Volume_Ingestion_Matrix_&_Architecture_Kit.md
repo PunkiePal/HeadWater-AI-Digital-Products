@@ -1,6 +1,6 @@
 # 🪄 HeadWater Volume Ingestion Matrix & Architecture Kit
 
-###  Operational Architecture Blueprint
+###  Operational Architecture Kit
 
 An enterprise-grade, text-based blueprint designed by HeadWater AI to fix formatting crashes, eliminate semantic bleed, and purify raw B2B data before it enters AI engines or vector databases.
 
@@ -9,7 +9,7 @@ An enterprise-grade, text-based blueprint designed by HeadWater AI to fix format
 ---
 
 ### 💡 Why This Operational Framework Matters
-Developers waste hours fixing broken token layouts or troubleshooting hallucinated AI outputs caused by unformatted text. This playbook replaces complex software integrations with copy-and-paste rules, semantic walls, and data-sanitization routines.
+Developers waste hours fixing broken token layouts or troubleshooting hallucinated AI outputs caused by unformatted text. This kit replaces complex software integrations with copy-and-paste rules, semantic walls, and data-sanitization routines.
 
 ---
 
