@@ -3,9 +3,13 @@ Operational Architecture Blueprint**
 
 An enterprise-grade, text-based blueprint designed by HeadWater AI to fix formatting crashes, eliminate semantic bleed, and purify raw B2B data before it enters AI engines or vector databases.
 
-### ➡️ [CLICK HERE TO PURCHASE THE COMPLETE ARCHITECTURE FOR $1799](https://buy.stripe.com/fZu14n0ulbjm5bA5NW8bS02)
+### ➡️ [CLICK HERE TO PURCHASE THE COMPLETE ARCHITECTURE ON STRIPE FOR $1799 DOWNLOAD ON GUMROAD](https://buy.stripe.com/fZu14n0ulbjm5bA5NW8bS02)
 
 ---
+### ⚙️ HeadWater Engineering Framework Inventory
+
+* **HeadWater B2B Data Purification & AI Ingestion Kit:** Includes **4 complete modules** built with raw, executable Python infrastructure and cross-platform instructions to stabilize ingestion and eliminate logging overages.
+* **HeadWater Volume Ingestion Matrix & Architecture Kit:** Includes **10 complete modules** engineered for high-throughput pipeline isolation, pre-calculated thresholds, and volume validation.
 
 ## 💡 Why This Operational Framework Matters
 Developers waste hours fixing broken token layouts or troubleshooting hallucinated AI outputs caused by unformatted text. This playbook replaces complex software integrations with copy-and-paste rules, semantic walls, and data sanitization routines.
