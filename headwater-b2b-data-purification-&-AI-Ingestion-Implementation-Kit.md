@@ -37,8 +37,9 @@ Developers waste hours fixing broken token layouts or troubleshooting hallucinat
 
 ---
 
-## 🌟 Access and Commercial Licensing
-* **Frictionless Delivery:** Immediate download of the master text asset right after secure checkout.
-* **Single-user runtime access parameters for internal workflow integration under Headwater jurisdiction.
+## 🔸 Access and Enterprise Licensing
 
-➡️ **[Secure Your Copy via Stripe for $1799.00](://buy.stripe.com/fZu14n0ulbjm5bA5NW8bS02) (Secure checkout redirects to Gumroad for instant download)**
+* **Frictionless Delivery:** Immediate download of the master text asset right after secure checkout.
+* **Single-user runtime access parameters** for internal workflow integration under HeadWater jurisdiction.
+
+- **[Secure Your Copy via Stripe for $1799.00](https://buy.stripe.com/fZu14n0ulbjm5bA5NW8bS02)** (Secure checkout redirects to Gumroad for instant download)
