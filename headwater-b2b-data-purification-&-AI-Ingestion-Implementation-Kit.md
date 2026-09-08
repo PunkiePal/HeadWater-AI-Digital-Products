@@ -37,7 +37,7 @@ Developers waste hours fixing broken token layouts or troubleshooting hallucinat
 
 ---
 
-## 🔸 Access and Enterprise Licensing
+## 🔸 Access and Secure Checkout
 
 * **Frictionless Delivery:** Immediate download of the master text asset right after secure checkout.
 * **Single-user runtime access parameters** for internal workflow integration under HeadWater jurisdiction.
