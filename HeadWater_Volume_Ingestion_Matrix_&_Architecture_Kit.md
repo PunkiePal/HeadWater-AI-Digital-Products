@@ -4,7 +4,7 @@
 
 An enterprise-grade, implementation infrastructure kit enigineered by HeadWater AI to seamlessly to seamlessly structure raw B2B data before it enters AI engines or vector databases.
 
-➡️ [CLICK HERE TO ACESS THE COMPLETE ARCHITECTURE KIT VIA STRIPE THE DOWNLOAD ON GUMROAD ](https://buy.stripe.com/5kQeVdelb0EIfQe4JS8bS03)
+➡️ [CLICK HERE TO ACESS THE COMPLETE ARCHITECTURE KIT VIA STRIPE THEN DOWNLOAD ON GUMROAD ](https://buy.stripe.com/5kQeVdelb0EIfQe4JS8bS03)
 
 HeadWater Volume Ingestion Matrix & Architecture Kit: Includes 10 complete modules engineered for high-throughput pipeline isolation, pre-calculated thresholds, and volume validation.
 
