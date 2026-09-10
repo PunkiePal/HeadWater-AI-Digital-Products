@@ -19,7 +19,7 @@ Get instant execution access to the core compiled B2B pipeline logic to run and 
 * **Access Level:** Free Pre-compiled Runtime Evaluation
 * **Target Environment:** Python 3.x Runtime Environment
 
-👉 **[DOWNLOAD THE FREE B2B EVALUATION RUNTIME MATRIX HERE](./hw_b2b_sample.pyc)**
+👉 **[DOWNLOAD THE FREE B2B EVALUATION RUNTIME MATRIX HERE](./hw_b2b_sample.pyc?raw=true)**
 *(Click the link to download the compiled bytecode module directly onto your machine)*
 
 ---
