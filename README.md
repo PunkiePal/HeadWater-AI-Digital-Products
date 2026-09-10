@@ -3,12 +3,8 @@
 Welcome to the official enterprise architecture blueprints. Use the direct portals below to instantly access our core engineering matrices, implementation kits, and free evaluation runtimes:
 
 ### 🚀 Volume Ingestion Suite
-* 📑 **[View Volume Ingestion Matrix & Architecture Kit Documentation](https://github.com)**
+* 📑 **[View Volume Ingestion Matrix & Architecture Kit Documentation](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/tree/main/HeadWater_Volume_Ingestion_Matrix_%26_Architecture_Kit)**
 * 🎁 **[Direct Download: Free Volume Evaluation Sample (hw_volume_sample.pyc)](https://github.com)**
-
-### 🔄 B2B Purification Suite
-* 📑 **[Jump to B2B Data Purification & AI Ingestion Kit Details](#headwater-b2b-data-purification--ai-ingestion-kit)**
-* 🎁 **[Direct Download: Free B2B Evaluation Sample (hw_b2b_sample.pyc)](https://github.com)**
 
 ---
 
