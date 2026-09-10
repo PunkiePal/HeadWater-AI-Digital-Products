@@ -1,6 +1,6 @@
 # 📂 HeadWater Volume Ingestion Matrix & Architecture Kit
 
-Use the direct portals below to instantly access our core engineering matrices, implementation kits, and free evaluation runtimes:
+Use the direct portals below to instantly access our core engineering matrices, implementation kit samples, and free evaluation runtimes:
 
 ### 🚀 Volume Ingestion Suite
 * 📑 **[View HeadWater Volume Ingestion Matrix & Architecture Kit Documentation](./HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md)**
