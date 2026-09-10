@@ -1,7 +1,5 @@
 # 📂 HeadWater Volume Ingestion Matrix & Architecture Kit
 
-Use the direct portals below to instantly access our core engineering matrices, implementation kit samples, and free evaluation runtimes:
-
 ### 🚀 Volume Ingestion Suite
 * 📑 **[View HeadWater Volume Ingestion Matrix & Architecture Kit Documentation](./HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md)**
 * 🎁 **[Direct Download: Free HeadWater Volume Evaluation Sample (hw_volume_sample.pyc)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/raw/main/hw_volume_sample.pyc)**
