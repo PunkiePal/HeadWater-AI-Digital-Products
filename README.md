@@ -11,6 +11,19 @@ An enterprise-grade, text-based blueprint designed by HeadWater AI to fix format
 * **WHEN IT SAVES TIME FOR YOUR BUSINESS:** From Day One of Deployment. By bypassing traditional multi-week coding, testing, and debugging loops, it transforms an intricate infrastructure development hurdle into a turnkey, single-afternoon implementation.
 * **WHY IT SAVES YOU MASSIVE CAPITAL:** By Defeating Opportunity Cost. In the hyper-scale technology race, speed is the only currency that matters. Buying an optimized, pre-built shortcut neutralizes invisible development stall-outs, slashes your time-to-market, and secures your team an unassailable first-mover advantage.
 
+  ### 🎁 FREE ENTERPRISE EVALUATION SAMPLE
+
+Get instant execution access to the core compiled B2B pipeline logic to run and test within your local environment.
+
+* **Asset:** `hw_b2b_sample.pyc` (Compiled Python Bytecode)
+* **Access Level:** Free Pre-compiled Runtime Evaluation
+* **Target Environment:** Python 3.x Runtime Environment
+
+👉 **[DOWNLOAD THE FREE B2B EVALUATION RUNTIME MATRIX HERE](./hw_b2b_sample.pyc)**
+*(Click the link to download the compiled bytecode module directly onto your machine)*
+
+---
+
 ### ➡️ [CLICK HERE TO PURCHASE THE COMPLETE ARCHITECTURE ON STRIPE FOR $1799 DOWNLOAD ON GUMROAD](https://buy.stripe.com/fZu14n0ulbjm5bA5NW8bS02)
 
 ---
