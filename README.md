@@ -1,4 +1,4 @@
-# 📂 HeadWater Vloume Ingestion Matrix & Architecture Kit
+# 📂 HeadWater Volume Ingestion Matrix & Architecture Kit
 
 Welcome to the official enterprise architecture blueprints. Use the direct portals below to instantly access our core engineering matrices, implementation kits, and free evaluation runtimes:
 
