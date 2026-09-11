@@ -26,6 +26,8 @@ Developers waste hours fixing broken token layouts or troubleshooting hallucinat
 ---
 
 The 4-Module Core Infrastructure
+
+
 This production kit is structurally divided into four core technical modules. Each module integrates production-ready Python code with granular deployment guides to transition legacy enterprise architecture into an AI-ready environment:
 
 Module 1: Ingestion Pipeline Stabilization
