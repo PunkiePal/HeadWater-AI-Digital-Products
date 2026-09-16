@@ -58,19 +58,19 @@ Developers waste hours fixing broken token layouts or troubleshooting hallucinat
 
 ## 🔎 Document Structure Overview
 
-### 🗒 Section 1: The Core Architecture of AI Ingestion
+### 🗒 MODULE 1: The Core Architecture of AI Ingestion
 * **Context Isolation:** Enforces strict visual boundaries utilizing `[START_RECIPIENT_PROFILE]` and `[END_RECIPIENT_PROFILE]` structural tags.
 * **Vector Symmetry:** Restricts corporate names to standardized Title Case while forcing system key parameters into `ALL_CAPS_SNAKE_CASE`.
 
-### 🗒 Section 2: The Enterprise Purification Constraints Matrix
+### 🗒 MODULE 2: The Enterprise Purification Constraints Matrix
 * **Suffix Stripping:** Explicit rules to flatten administrative trailing labels (`Inc.`, `LLC`, `Corp.`) to maximize semantic matches.
 * **Character Maps:** Strict parameters detailing how to convert or drop disruptive hidden codes before prompt processing.
 
-### 🗒 Section 3: The Live System Sanitization Runtime Engine
+### 🗒 MODULE 3: The Live System Sanitization Runtime Engine
 * **Command Templates:** Ready-to-run structural prompt templates designed to turn any standard AI interface into a data filter.
 * **Token Management:** A strict 400-token restriction metric per text block to guarantee high-density processing performance.
 
-### 🗒 Section 4: The Operational Initialization Checklist
+### 🗒 MODULE 4: The Operational Initialization Checklist
 * **Pipeline Audits:** A manual verification guide verifying file format stripping, structural isolation, and system security.
 
 ---
