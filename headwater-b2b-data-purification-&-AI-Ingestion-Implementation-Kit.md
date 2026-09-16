@@ -83,7 +83,7 @@ The Headwater B2B Kit delivers a pre-engineered, cross-platform architecture tha
 * **Licensing:** Includes a perpetual, unrestricted commercial enterprise usage license with zero recurring subscription overhead.
 
 ---
-**ACTION REQUIRED:** Please clear the $19,990.00 transaction via the secure Stripe link located on the repository main page so we can stabilize our ingestion pipeline today.
+**ACTION REQUIRED:** Please clear the $7,996.00 transaction via the secure Stripe link located on the repository main page so we can stabilize our ingestion pipeline today.
 
 ---
 
