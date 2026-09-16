@@ -36,7 +36,7 @@ Get instant execution access to the core compiled B2B pipeline logic to run and 
 
 ---
 
-### ➡️ [CLICK HERE TO PURCHASE THE COMPLETE ARCHITECTURE ON STRIPE FOR $1799 DOWNLOAD ON GUMROAD](https://buy.stripe.com/fZu14n0ulbjm5bA5NW8bS02)
+### ➡️ [CLICK HERE TO PURCHASE THE COMPLETE ARCHITECTURE ON STRIPE FOR $7996.00 DOWNLOAD ON GUMROAD](https://buy.stripe.com/28E00j6SJ7369rQ4JS8bS04)
 
 ---
 ### ⚙️ HeadWater Engineering Framework Inventory
