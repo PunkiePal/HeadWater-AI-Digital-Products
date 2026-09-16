@@ -4,8 +4,6 @@
  
 
 ## YOU CAN HAVE IT NOW.
-Put your trust in HeadWater AI Kits—purpose-built solutions for AI operational needs. Get the full results of the kit now, without long-term contracts, consulting commitments, or ongoing service fees.
-
 
 ## ⏱️ 5 W's of Enterprise Time Savings, and How This Kit Saves You Time:
 
