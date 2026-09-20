@@ -27,10 +27,7 @@ Get instant execution access to the core compiled B2B pipeline logic to run and 
 
 * **Asset:** `hw_b2b_sample.pyc` (Compiled Python Bytecode)
 * **Access Level:** Free Pre-compiled Runtime Evaluation
-* **Target Environment:** Python 3.x Runtime Environment
-
-👉 **[FREE DOWNLOAD: hw_b2b_sample.pyc](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/raw/main/hw_b2b_sample.pyc)**
-*(Click the link to download the compiled bytecode module directly onto your machine)*
+* **Target Environment:** Python 3.x Runtime Environment*
 
 ---
 
