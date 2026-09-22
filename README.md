@@ -23,7 +23,7 @@ An enterprise-grade, text-based blueprint designed by HeadWater AI to fix format
 
 ---
 
-### ➡️ [CLICK HERE TO PURCHASE THE COMPLETE ARCHITECTURE ON STRIPE FOR $7996.00 DOWNLOAD ON GUMROAD](https://buy.stripe.com/28E00j6SJ7369rQ4JS8bS04)
+### ➡️ [CLICK HERE TO PURCHASE THE COMPLETE ARCHITECTURE ON STRIPE FOR $3,998.00 DOWNLOAD ON GUMROAD](https://buy.stripe.com/28E00j6SJ7369rQ4JS8bS04)
 
 ---
 ### ⚙️ HeadWater Engineering Framework Inventory
