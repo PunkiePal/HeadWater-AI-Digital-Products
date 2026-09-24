@@ -92,4 +92,4 @@ The Headwater B2B Kit delivers a pre-engineered, cross-platform architecture tha
 * **Frictionless Delivery:** Immediate download of the master text asset right after secure checkout.
 * **Single-user runtime access parameters** for internal workflow integration under HeadWater jurisdiction.
 
-- **[Secure Your Copy via Stripe for $3,998.00](https://buy.stripe.com/28E00j6SJ7369rQ4JS8bS04)** (Secure checkout redirects to Gumroad for instant download)
+- **[Secure Your Copy via Stripe for $3,998.00](https://buy.stripe.com/aFa14n7WN3QU33s9088bS07)** (Secure checkout redirects to Gumroad for instant download)
