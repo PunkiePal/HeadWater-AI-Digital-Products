@@ -61,6 +61,20 @@ Developers waste hours fixing broken token layouts or troubleshooting hallucinat
 * **Pipeline Audits:** A manual verification guide verifying file format stripping, structural isolation, and system security.
 
 ---
+# Headwater B2B Data Purification & Ingestion Gate
+def purify_b2b_payload(raw_record):
+    if not isinstance(raw_record, dict) or "company_id" not in raw_record:
+        raise ValueError("Invalid B2B record structure: missing core identifier.")
+    
+    # Strip whitespace, normalize enterprise naming fields, and filter nulls
+    purified_record = {
+        "company_id": str(raw_record.get("company_id")).strip(),
+        "account_name": raw_record.get("account_name", "").strip().title(),
+        "payload_data": raw_record.get("payload_data", {}),
+        "ingestion_status": "purified"
+    }
+    
+    return purified_record
 
 ## 🌟 Access and Commercial Licensing
 * **Frictionless Delivery:** Immediate download of the master text asset right after secure checkout.
