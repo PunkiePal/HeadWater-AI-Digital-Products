@@ -61,6 +61,18 @@ Developers waste hours fixing broken token layouts or troubleshooting hallucinat
 * **Pipeline Audits:** A manual verification guide verifying file format stripping, structural isolation, and system security.
 
 ---
+# Headwater Ingestion Validation Gate
+def validate_ingestion_stream(payload):
+    if not payload or "data" not in payload:
+        raise ValueError("Malformed record caught at ingestion boundary.")
+    
+    # Strip redundant metadata to optimize downstream token efficiency
+    cleaned_payload = {
+        "id": payload.get("id"),
+        "data": payload.get("data"),
+        "timestamp": payload.get("timestamp")
+    }
+    return cleaned_payload
 
 ## 🌟 Access and Commercial Licensing
 * **Frictionless Delivery:** Immediate download of the master text asset right after secure checkout.
