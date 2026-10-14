@@ -43,7 +43,7 @@ Price: $3,709 USD
 
 Purchase and delivery will be handled through HeadWater's Payhip product listing.
 
-Payhip purchase link: To be added after the public product URL is confirmed.
+Payhip purchase link:(https://payhip.com/b/IMFL9)
 
 Product Documentation
 
