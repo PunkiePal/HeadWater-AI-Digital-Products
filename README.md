@@ -8,6 +8,8 @@
 * 📑 **[View HeadWater Volume Ingestion Matrix & Architecture Kit Documentation](./HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md)**
 ---
 
+**View HeadWater AI Data Ingestion Engine Documentation" (./HeadWater%20AI%20Data%20Ingestion%20Engine.md)**
+
 # 📈 HeadWater B2B Data Purification & AI Ingestion Kit
 Operational Implementation Kit **
 
