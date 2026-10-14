@@ -3,7 +3,7 @@
 
 ## YOU CAN HAVE IT NOW.
 
-* 📑 **[HeadWater Volume Ingestion Matrix & Architecture Kit](./HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md)**
+* **[HeadWater Volume Ingestion Matrix & Architecture Kit](./HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md)**
 
 * **[HeadWater AI Data Ingestion Engine](./HeadWater%20AI%20Data%20Ingestion%20Engine.md)**
 ---
