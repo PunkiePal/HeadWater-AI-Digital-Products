@@ -4,7 +4,6 @@
 
 ## YOU CAN HAVE IT NOW.
 
-### 🚀 Volume Ingestion Kit
 * 📑 **[View HeadWater Volume Ingestion Matrix & Architecture Kit Documentation](./HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md)**
 
 * **[View HeadWater AI Data Ingestion Engine Documentation](./HeadWater%20AI%20Data%20Ingestion%20Engine.md)**
