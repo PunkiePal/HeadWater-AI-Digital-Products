@@ -10,7 +10,7 @@ He will not suffer thy foot to be moved: he that keepeth thee will not slumber. 
 
 MARKET-DRIVEN DESIGN. ENGINEERED FUNCTIONALITY. VERIFIED QUALIFICATION. CUSTOMER-READY DELIVERY.
 
-WHY HEADWATER BUILDS
+WHAT HEADWATER BUILDS
 
 HeadWater develops AI digital products through a structured Market Research, Due Diligence, Engineering, Testing, Qualification, and Product Delivery Process.
 
