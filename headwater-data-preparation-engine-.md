@@ -4,8 +4,6 @@ You can have it now.
 
 A customer-ready HeadWater AI digital product, available for purchase.
 
-[Purchase your copy: "Buy HeadWater Data Preparation Engine" for $4364.00](https://payhip.com/b/u0nR8)
-
 He will not suffer thy foot to be moved: he that keepeth thee will not slumber. PSALM 121:3 
 
 MARKET-DRIVEN DESIGN. ENGINEERED FUNCTIONALITY. VERIFIED QUALIFICATION. CUSTOMER-READY DELIVERY.
@@ -55,11 +53,14 @@ ENGINEERING WORK THAT GOES BEYOND A DOWNLOAD
 
 HeadWater's work includes market evaluation, product design, executable engineering, testing, qualification, documentation, and packaging. The objective is to deliver a functional product with supporting materials—not merely an idea, a specification, or an unfinished prototype.
 
-A PRODUCT YOU CAN PUT TO WORK
+A PRODUCT YOU CAN PUT TO WORK:
 
 The Version 1.0 package includes the Python launcher, qualified engine module, customer user guide, commercial license, and qualification record.
 
 Customers receive the packaged product and its supporting documentation so they can understand what is included, how to run it, and the terms under which it may be used.
+
+[Purchase your copy: "Buy HeadWater Data Preparation Engine" for $4364.00](https://payhip.com/b/u0nR8)
+
 
 HEADWATER
 
