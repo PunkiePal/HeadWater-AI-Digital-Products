@@ -1,0 +1,44 @@
+HEADWATER DATA PREPARATION ENGINE
+PROPRIETARY COMMERCIAL LICENSE
+Version 1.0
+
+Copyright © HeadWater. All rights reserved.
+
+1. LICENSE GRANT
+
+Upon purchase, HeadWater grants the purchasing organization a perpetual, non-exclusive, non-transferable license to use the purchased product for its own internal business purposes, subject to these terms.
+
+2. AUTHORIZED USERS
+
+The licensed organization may permit its employees and authorized contractors to use the product for that organization's internal business operations.
+
+3. PERMITTED BACKUPS
+
+The licensed organization may make reasonable backup copies for internal business continuity and recovery purposes.
+
+4. RESTRICTIONS
+
+Without prior written permission from HeadWater, the licensee may not:
+
+- Resell, sublicense, or redistribute the product.
+- Provide copies of the product to other organizations.
+- Host or provide the product as a standalone service for third parties.
+- Transfer the license to another organization.
+
+5. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+HeadWater retains ownership of the product and its associated intellectual property. This license grants usage rights only; it does not transfer ownership of the product to the purchaser.
+
+6. CUSTOMER DATA AND OUTPUT
+
+The customer retains its rights to its input data and generated output, subject to any applicable third-party rights. This license does not transfer ownership of customer data to HeadWater.
+
+7. PURCHASE AND UPDATES
+
+The product is offered as a one-time purchase. Updates, upgrades, maintenance, and ongoing support are not included unless HeadWater expressly states otherwise in writing.
+
+8. ACCEPTANCE
+
+By purchasing or using the product, the licensee agrees to comply with these terms.
+
+For licensing questions or written permission requests, contact HeadWater through its official business channels.
