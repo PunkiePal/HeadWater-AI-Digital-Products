@@ -1,4 +1,12 @@
-🟣 HEADWATER DATA PREPARATION ENGINE
+HeadWater Data Preparation Engine
+
+You can have it now.
+
+A customer-ready HeadWater AI digital product, available for purchase.
+
+Purchase your copy: "Buy HeadWater Data Preparation Engine" (https://payhip.com/b/u0nR8)
+
+He will not suffer thy foot to be moved: he that keepeth thee will not slumber. PSALM 121:3 
 
 MARKET-DRIVEN DESIGN. ENGINEERED FUNCTIONALITY. VERIFIED QUALIFICATION. CUSTOMER-READY DELIVERY.
 
