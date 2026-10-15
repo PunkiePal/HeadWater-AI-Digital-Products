@@ -16,7 +16,7 @@ HeadWater develops AI digital products through a structured Market Research, Due
 
 We do not begin by assuming what the market needs. We investigate the market, evaluate available evidence, identify industry problems, and determine which opportunities warrant engineering investment.
 
-The market informs the work. Requirements guide the engineering. Testing and verification establish whether the resulting module performs as intended. Qualification precedes packaging and customer delivery.
+The market informs the work. Standardized requirements guide the engineering. Testing and verification establish whether the resulting module performs as intended. Qualification precedes packaging and customer delivery.
 
 THE FIVE Ws — AND HOW THIS ENGINE SAVES YOU TIME
 
