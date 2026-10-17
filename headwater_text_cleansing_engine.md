@@ -1,4 +1,4 @@
-HeadWater Text Cleansing Engine
+**HeadWater Text Cleansing Engine**
 
 HeadWater AI Digital Products
 
@@ -16,7 +16,7 @@ The HeadWater Text Cleansing Engine is a purpose-built digital product designed 
 
 ---
 
-THE 5 Ws AND HOW
+THE 5 Ws AND HOW THIS ENGINE SAVES YOU TIME
 
 WHO — Who Is It For?
 
