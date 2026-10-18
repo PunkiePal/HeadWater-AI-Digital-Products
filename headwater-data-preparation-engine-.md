@@ -1,8 +1,9 @@
 # HeadWater Data Preparation Engine
 
-**About HeadWater**
-
 **He will not suffer thy foot to be moved: he that keepeth thee will not slumber. PSALM 121:3**
+
+
+**About HeadWater**
 
 HeadWater is a business that develops and sells AI digital products that solve real industry problems.
 
