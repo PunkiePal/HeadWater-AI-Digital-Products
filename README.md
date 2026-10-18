@@ -11,7 +11,7 @@ Our work is focused on identifying practical challenges, researching industry ne
 
 HeadWater's AI Digital Products is the division responsible for developing and commercializing our AI-focused digital products. The division concentrates on technical challenges associated with preparing, processing, and managing information for artificial intelligence and related business operations.
 
-Why We Exist
+# Why We Exist
 
 Artificial intelligence creates opportunities for organizations across many industries, but implementing AI effectively involves more than selecting a model or connecting a system. The information supporting those systems, the processes surrounding it, and the technical challenges of operational use all matter.
 
@@ -19,7 +19,7 @@ HeadWater exists to address defined industry problems through practical, purpose
 
 We believe product development should begin with understanding the problem rather than assuming that every problem needs the same solution. Industry research and due diligence inform our development priorities, while engineering, testing, documentation, and qualification help establish whether a product is prepared for delivery.
 
-Our Approach to Engineering
+# Our Approach to Engineering
 
 Our development approach emphasizes:
 
