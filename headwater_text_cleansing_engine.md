@@ -14,7 +14,7 @@ The HeadWater Text Cleansing Engine is a purpose-built digital product designed 
 
 ---
 
-THE 5 Ws AND HOW THIS ENGINE SAVES YOU TIME
+THE 5 Ws OF ENTERPRISE TIME SAVINGS AND HOW THIS ENGINE SAVES YOU TIME
 
 WHO — Who Is It For?
 
