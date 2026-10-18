@@ -43,9 +43,9 @@ Each product has its own scope, description, documentation, licensing terms, and
 
 **Explore the individual product pages and their associated information:**
 
-- "HeadWater AI Data Ingestion Engine" (HeadWater%20AI%20Data%20Ingestion%20Engine.md)
-- "HeadWater Data Preparation Engine" (headwater-data-preparation-engine-.md)
-- "HeadWater Text Cleansing Engine" (headwater_text_cleansing_engine.md)
+- [HeadWater AI Data Ingestion Engine](HeadWater%20AI%20Data%20Ingestion%20Engine.md)
+- [HeadWater Data Preparation Engine](headwater-data-preparation-engine-.md)
+- [HeadWater Text Cleansing Engine](headwater_text_cleansing_engine.md)
 
 Additional product information and resources will be organized here as the portfolio develops.
 
