@@ -1,7 +1,6 @@
+# HeadWater AI Data Ingestion Engine
 
-
-
-About HeadWater
+**About HeadWater**
 
 HeadWater is a business that develops and sells AI digital products that solve real industry problems.
 
