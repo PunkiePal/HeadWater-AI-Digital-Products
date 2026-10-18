@@ -27,13 +27,13 @@ HeadWater focuses on developing and selling standalone AI digital products deliv
 
 # HeadWater's AI Digital Products Division
 
-You can have it now.
+**YOU CAN HAVE IT NOW.**
 
 A customer-ready HeadWater AI digital product, available for purchase.
 
 
 MARKET-DRIVEN DESIGN. ENGINEERED FUNCTIONALITY. VERIFIED QUALIFICATION. CUSTOMER-READY DELIVERY.
-
+   
 WHAT HEADWATER BUILDS
 
 HeadWater develops AI digital products through a structured Market Research, Due Diligence, Engineering, Testing, Qualification, and Product Delivery Process.
