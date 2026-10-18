@@ -22,7 +22,6 @@ We are building HeadWater around a straightforward principle: research real prob
 
 HeadWater focuses on developing and selling standalone AI digital products delivered as downloadable software packages.
 
-HeadWater Corporate
 HeadWater's AI Digital Products Division
 
 
