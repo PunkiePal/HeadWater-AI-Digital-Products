@@ -44,13 +44,13 @@ Its capabilities include:
 
 Refer to the included customer documentation for the exact supported inputs, operating requirements, usage instructions, and limitations.
 
-## How the HeadWater AI Data Ingestion Engine Saves You Time
+## 5 W's of enterprise time savings and How the HeadWater AI Data Ingestion Engine saves you time
 
 - **Who:** Engineers and data teams who have to get raw files ready for AI before anything else can happen.
 - **What:** A finished, tested package that runs incoming files through a defined workflow and reports what it finds. Nothing to design, write or debug first.
 - **When:** Every time new data comes in. You run it the same way each time, so the work never starts over.
 - **Where:** Inside your own organization, as a packaged Python product.
-- **Why:** Building this yourself means weeks of development, testing and fixing. We already put in 320 hours doing that work. That's about eight full-time work weeks you skip, and you start with a tested process on day one.
+- **Why:** Building this yourself means weeks of development, testing and fixing. 300+ engineering hours. That's about eight full-time work weeks you skip, and you start with a tested process on day one.
 
 ## Product Delivery
 
