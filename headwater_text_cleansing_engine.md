@@ -16,23 +16,23 @@ The HeadWater Text Cleansing Engine is a purpose-built digital product designed 
 
 # THE 5 Ws OF ENTERPRISE TIME SAVINGS AND HOW THIS ENGINE SAVES YOU TIME
 
-WHO — Who Is It For?
+**WHO — Who Is It For?**
 
 Built for AI developers, data engineers, researchers, technical teams, and businesses that work with text files and need a practical way to prepare text for downstream processing.
 
-WHAT — What Does It Do?
+**WHAT — What Does It Do?**
 
 The HeadWater Text Cleansing Engine processes text files using its implemented cleansing rules. Its verified basic behavior includes removing unwanted surrounding whitespace. The included interface lets users select an input file, choose an output destination, execute the process, and view completion information.
 
-WHEN — When Is It Useful?
+**WHEN — When Is It Useful?**
 
 Use it when text files need cleansing before further processing, during AI data preparation, or whenever manual text cleanup is adding unnecessary steps to a workflow.
 
-WHERE — Where Can It Be Used?
+**WHERE — Where Can It Be Used?**
 
 In a compatible Python 3 environment where supported text files need to be processed. The product is delivered as a downloadable ZIP package with its own execution interface and supporting documentation.
 
-WHY — Why Does It Matter?
+**WHY — Why Does It Matter?**
 
 <a href="https://payhip.com/b/vmcjQ" style="display:inline-block; padding:16px 32px; background:#1a73e8; color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px;">Purchase the full engine for $3,068</a>
 
