@@ -36,6 +36,24 @@ Our development approach emphasizes:
 
 We aim to make the engineering work behind our products useful and accessible to customers without requiring them to understand or reproduce the proprietary implementation details behind each solution.
 
+# Who We Are
+
+HeadWater Corporate develops and sells standalone AI digital products through HeadWater's AI Digital Products division. We focus on identifying practical problems in AI-related data workflows and engineering products designed to address those problems.
+
+Our work is centered on purpose-built digital products that customers can acquire and use to address specific operational and technical needs. We aim to make our engineering work understandable through clear product information, documented capabilities, and product qualification.
+
+# Where We Operate
+
+HeadWater makes its AI digital products available through online distribution channels, allowing prospective customers to discover products, review available technical information, and purchase products digitally.
+
+Our public product information and company resources are available online through HeadWater's GitHub presence, with product discovery and sample resources also available through relevant distribution platforms.
+
+# When We Work
+
+HeadWater develops and releases products as engineering, testing, qualification, documentation, and packaging activities establish that each product is ready for release.
+
+Our product development is ongoing. We identify relevant industry problems, evaluate opportunities, engineer solutions, and make products available when they are ready for customers. Product availability and release status are communicated through the corresponding product pages.
+
 # What We Develop
 
 HeadWater AI Digital Products develops and sells off-the-shelf digital products designed to address specific technical and operational needs.
