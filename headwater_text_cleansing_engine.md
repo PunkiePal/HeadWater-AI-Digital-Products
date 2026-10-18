@@ -38,7 +38,7 @@ In a compatible Python 3 environment where supported text files need to be proce
 
 Manual data preparation can consume valuable engineering time. A dedicated cleansing engine provides a repeatable way to perform its supported cleaning operations, helping users spend less effort on routine cleanup and more time on their primary work.
 
-**HOW — How Does It Help Save Time?**
+# HOW — How Does It Help Save Time?
 
 1. Reduce repetitive manual cleanup.
 Let the engine perform its supported cleansing operations rather than repeatedly correcting the same kinds of text issues by hand.
