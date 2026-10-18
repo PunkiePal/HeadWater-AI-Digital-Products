@@ -34,7 +34,7 @@ A customer-ready HeadWater AI digital product, available for purchase.
 
 MARKET-DRIVEN DESIGN. ENGINEERED FUNCTIONALITY. VERIFIED QUALIFICATION. CUSTOMER-READY DELIVERY.
    
-WHAT HEADWATER BUILDS
+# WHAT HEADWATER BUILDS
 
 HeadWater develops AI digital products through a structured Market Research, Due Diligence, Engineering, Testing, Qualification, and Product Delivery Process.
 
@@ -42,40 +42,26 @@ We do not begin by assuming what the market needs. We investigate the market, ev
 
 The market informs the work. Industry  and market standardized requirements guide the engineering. Testing and verification establish whether the resulting module performs as intended. Qualification precedes packaging and customer delivery.
 
-THE FIVE Ws — AND HOW THIS ENGINE SAVES YOU TIME
+# THE FIVE Ws — AND HOW THIS ENGINE SAVES YOU TIME
 
-WHO IS IT FOR?
+**WHO IS IT FOR?**
 
 Technical professionals, engineers, and organizations whose work involves preparing data for downstream processing and AI-related workflows.
 
-WHAT DOES IT DO?
+**WHAT DOES IT DO?**
 
 The HeadWater Data Preparation Engine processes selected input files or directories, produces processed output files, and generates a JSON processing report.
 
-WHEN IS IT USEFUL?
+**WHEN IS IT USEFUL?**
 
 When a repeatable, executable data-preparation workflow can help reduce manual handling and make processing results easier to review.
 
-WHERE DOES IT FIT?
-
-Within a compatible Python 3 environment where users can access their input data and write the resulting output files.
-
-WHY DOES IT MATTER?
-
-Manual data preparation can consume valuable engineering time. A repeatable tool can help reduce repetitive handling, standardize execution, and provide a report that makes results easier to inspect. Actual time savings depend on the customer's workload and existing process.
-
-HOW DOES HEADWATER DEVELOP ITS PRODUCTS?
-
-1. Market Research & Due Diligence — Investigate the market, evaluate industry problems, and assess the opportunity.
-2. Problem Definition & Requirements — Establish what the product must accomplish.
-3. Design & Engineering — Build the executable module around the defined requirements.
-4. Testing & Verification — Exercise the module, examine outputs, and verify behavior against its requirements.
-5. Qualification — Determine whether the module meets its defined acceptance criteria.
-6. Packaging & Delivery — Transform the qualified module into a documented, packaged digital product for customers.
+**WHERE DOES IT FIT?**
+* Transform the qualified module into a documented, packaged digital product for customers.
 
 ENGINEERING WORK THAT GOES BEYOND A DOWNLOAD
 
-300+ hours of design and engineering work across HeadWater's product efforts.
+300+ hours of design and engineering work was required to develop HeadWater's product.
 
 HeadWater's work includes market evaluation, product design, executable engineering, testing, qualification, documentation, and packaging. The objective is to deliver a functional product with supporting materials—not merely an idea, a specification, or an unfinished prototype.
 
