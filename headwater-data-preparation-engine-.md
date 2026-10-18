@@ -2,9 +2,11 @@
 
 **About HeadWater**
 
+**He will not suffer thy foot to be moved: he that keepeth thee will not slumber. PSALM 121:3**
+
 HeadWater is a business that develops and sells AI digital products that solve real industry problems.
 
-Through the HeadWater's AI Digital Products Division, we develop practical, standalone software products designed to address real operational challenges in data ingestion, data preparation, text cleansing, and AI-related workflows.
+AI Digital Products Division, we develop practical, standalone software products designed to address real operational challenges in data ingestion, data preparation, text cleansing, and AI-related workflows.
 
 **Our Approach**
 
@@ -28,7 +30,6 @@ You can have it now.
 
 A customer-ready HeadWater AI digital product, available for purchase.
 
-He will not suffer thy foot to be moved: he that keepeth thee will not slumber. PSALM 121:3 
 
 MARKET-DRIVEN DESIGN. ENGINEERED FUNCTIONALITY. VERIFIED QUALIFICATION. CUSTOMER-READY DELIVERY.
 
