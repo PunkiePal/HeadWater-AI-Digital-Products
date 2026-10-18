@@ -67,11 +67,11 @@ A standalone digital product, delivered as a downloadable ZIP package.
 
 # WHAT'S INCLUDED
 
-- "module_02.py" — Text-cleansing engine
-- "orange_ui.py" — Customer-facing execution interface
-- "readme.md" — Product documentation
-- "license.txt" — License terms
-- "qualification/qualification_record.txt" — Qualification record
+- Text-cleansing engine
+- Customer-facing execution interface
+- Product documentation
+- License terms
+- Qualification record
 
 The interface supports input-file selection, output-location selection, execution status, and completion information. Users should review the generated output before using it in production workflows.
 
