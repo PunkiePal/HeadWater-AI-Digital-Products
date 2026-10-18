@@ -65,7 +65,7 @@ Transform the qualified module into a documented, packaged digital product for c
 
 HeadWater's work includes market evaluation, product design, executable engineering, testing, qualification, documentation, and packaging. The objective is to deliver a functional product with supporting materials—not merely an idea, a specification, or an unfinished prototype.
 
-A PRODUCT YOU CAN PUT TO WORK:
+# A PRODUCT YOU CAN PUT TO WORK:
 
 The Version 1.0 package includes the Python launcher, qualified engine module, customer user guide, commercial license, and qualification record.
 
