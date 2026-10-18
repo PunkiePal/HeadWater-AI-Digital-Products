@@ -97,6 +97,6 @@ We develop and sell standalone digital products designed to address specific tec
 
 ---
 
-HEADWATER AI DIGITAL PRODUCTS
+HEADWATER'S AI DIGITAL PRODUCTS
 
 Purpose-built engineering. Practical digital products. Ready for your workflow.
