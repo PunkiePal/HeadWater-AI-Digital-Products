@@ -1,3 +1,6 @@
+
+
+
 About HeadWater
 
 HeadWater is a business that develops and sells AI digital products that solve real industry problems.
@@ -12,12 +15,6 @@ We believe software should solve real problems. Our development process emphasiz
 
 Our goal is to deliver ready-to-use software that customers can run and evaluate for themselves.
 
-Our Products
-
-- "HeadWater AI Data Ingestion Engine" () — Designed to support data ingestion workflows.
-- "HeadWater Data Preparation Engine" (PASTE_PURPLE_PRODUCT_PAGE_URL_HERE) — Designed to support data preparation workflows.
-- "HeadWater Text Cleansing Engine" (PASTE_ORANGE_PRODUCT_PAGE_URL_HERE) — Designed to support text cleansing workflows.
-
 Visit our product pages to explore available downloads, product capabilities, and additional information.
 
 Our Commitment
@@ -30,10 +27,7 @@ HeadWater Corporate
 HeadWater's AI Digital Products Division
 
 
-
 # HeadWater AI Data Ingestion Engine
-
-**HeadWater AI Digital Product Division**
 
 ## Product Overview
 
