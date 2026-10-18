@@ -61,8 +61,6 @@ Actual time savings depend on the user's data, workload, and existing process.
 
 GET HEADWATER TEXT CLEANSING ENGINE
 
-You Can Have It Now.
-
 "PURCHASE AND DOWNLOAD — HEADWATER TEXT CLEANSING ENGINE" (INSERT_ORANGE_PAYHIP_URL)
 
 A standalone digital product, delivered as a downloadable ZIP package.
