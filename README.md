@@ -1,10 +1,9 @@
 
-HeadWater Corporate
+# HeadWater Corporate
 
-HeadWater AI Digital Products Division
-Established 2026
+## HeadWater AI Digital Products Division Established 2026
 
-About HeadWater
+**About HeadWater**
 
 HeadWater Corporate was established in 2026 to develop and sell digital products that solve real industry problems.
 
