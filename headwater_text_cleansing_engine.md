@@ -65,7 +65,7 @@ GET HEADWATER TEXT CLEANSING ENGINE
 
 A standalone digital product, delivered as a downloadable ZIP package.
 
-WHAT'S INCLUDED
+# WHAT'S INCLUDED
 
 - "module_02.py" — Text-cleansing engine
 - "orange_ui.py" — Customer-facing execution interface
@@ -77,7 +77,7 @@ The interface supports input-file selection, output-location selection, executio
 
 ---
 
-HEADWATER'S ENGINEERING PHILOSOPHY
+# HEADWATER'S ENGINEERING PHILOSOPHY
 
 At HeadWater, engineering means taking a real problem through a disciplined development process and delivering a usable product—not stopping at an idea or an isolated script.
 
@@ -91,7 +91,7 @@ We believe the work should culminate in complete, practical digital products tha
 
 ---
 
-OUR MISSION
+# OUR MISSION
 
 HeadWater is a business that develops and sells AI digital products that solve real industry problems.
 
