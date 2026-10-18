@@ -6,7 +6,7 @@ HeadWater is a business that develops and sells AI digital products that solve r
 
 Through the HeadWater AI Digital Products Division, we develop practical, standalone software products designed to address real operational challenges in data ingestion, data preparation, text cleansing, and AI-related workflows.
 
-Our Approach
+**Our Approach**
 
 Our products begin with market research and industry due diligence. We investigate industry needs, evaluate existing solutions, identify gaps, and use our findings to guide product design and engineering.
 
@@ -16,7 +16,7 @@ Our goal is to deliver ready-to-use software that customers can run and evaluate
 
 Visit our product pages to explore available downloads, product capabilities, and additional information.
 
-Our Commitment
+**Our Commitment**
 
 We are building HeadWater around a straightforward principle: research real problems, engineer practical solutions, test the results, and deliver usable products.
 
