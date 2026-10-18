@@ -24,6 +24,8 @@ HeadWater focuses on developing and selling standalone AI digital products deliv
 
 HeadWater's AI Digital Products Division
 
+[More about HeadWater](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md)
+
 
 ## Product Overview
 
