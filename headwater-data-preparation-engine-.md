@@ -5,7 +5,7 @@
 
 **About HeadWater**
 
-(https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md)
+[More about HeadWater here](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md)
 
 HeadWater is a business that develops and sells AI digital products that solve real industry problems.
 
