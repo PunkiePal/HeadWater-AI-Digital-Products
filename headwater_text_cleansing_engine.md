@@ -1,4 +1,4 @@
-**HeadWater Text Cleansing Engine**
+# HeadWater Text Cleansing Engine
 
 HeadWater AI Digital Products Division
 
@@ -6,7 +6,7 @@ He will not suffer thy foot to be moved; he that keepeth thee will not slumber. 
 
 ---
 
-You Can Have It Now.
+**You Can Have It Now.**
 
 Clean Text. Reduce Manual Work. Prepare Data for AI.
 
@@ -14,7 +14,7 @@ The HeadWater Text Cleansing Engine is a purpose-built digital product designed 
 
 ---
 
-THE 5 Ws OF ENTERPRISE TIME SAVINGS AND HOW THIS ENGINE SAVES YOU TIME
+# THE 5 Ws OF ENTERPRISE TIME SAVINGS AND HOW THIS ENGINE SAVES YOU TIME
 
 WHO — Who Is It For?
 
