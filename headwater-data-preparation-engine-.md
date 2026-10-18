@@ -5,8 +5,6 @@
 
 **About HeadWater**
 
-[More about HeadWater here](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md)
-
 HeadWater is a business that develops and sells AI digital products that solve real industry problems.
 
 AI Digital Products Division, we develop practical, standalone software products designed to address real operational challenges in data ingestion, data preparation, text cleansing, and AI-related workflows.
@@ -26,6 +24,8 @@ Visit our product pages to explore available downloads, product capabilities, an
 We are building HeadWater around a straightforward principle: research real problems, engineer practical solutions, test the results, and deliver usable products.
 
 HeadWater focuses on developing and selling standalone AI digital products delivered as downloadable software packages.
+
+[More about HeadWater here](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md)
 
 # HeadWater's AI Digital Products Division
 
