@@ -74,8 +74,6 @@ Customers receive the packaged product and its supporting documentation so they 
 [Purchase your copy: "Buy HeadWater Data Preparation Engine" for $4364.00](https://payhip.com/b/u0nR8)
 
 
-HEADWATER
-
 HeadWater develops and sells AI digital products that solve real industry problems.
 
 Market research determines the opportunity. Engineering turns requirements into functionality. Testing and qualification establish whether the result is ready to be packaged and delivered.
