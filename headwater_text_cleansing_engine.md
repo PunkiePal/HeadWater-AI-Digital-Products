@@ -61,7 +61,7 @@ Actual time savings depend on the user's data, workload, and existing process.
 
 GET HEADWATER TEXT CLEANSING ENGINE
 
-"PURCHASE AND DOWNLOAD — HEADWATER TEXT CLEANSING ENGINE" (https://payhip.com/b/vmcjQ)
+[PURCHASE AND DOWNLOAD — HEADWATER TEXT CLEANSING ENGINE](https://payhip.com/b/vmcjQ)
 
 A standalone digital product, delivered as a downloadable ZIP package.
 
