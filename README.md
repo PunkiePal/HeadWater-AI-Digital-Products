@@ -1,7 +1,7 @@
 
 # HeadWater Corporate
 
-## HeadWater's AI Digital Products Division Established 2026
+**HeadWater's AI Digital Products Division Established 2026**
 
 **About HeadWater**
 
