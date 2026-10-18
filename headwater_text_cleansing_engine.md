@@ -40,19 +40,19 @@ Manual data preparation can consume valuable engineering time. A dedicated clean
 
 # HOW — How Does It Help Save Time?
 
-1. Reduce repetitive manual cleanup.
+**1. Reduce repetitive manual cleanup.**
 Let the engine perform its supported cleansing operations rather than repeatedly correcting the same kinds of text issues by hand.
 
-2. Simplify execution.
+**2. Simplify execution.**
 Use the included interface to select an input file, specify the output destination, and run the process.
 
-3. Make routine work repeatable.
+**3. Make routine work repeatable.**
 Apply the engine's implemented cleansing rules consistently across supported files.
 
-4. Keep original data available.
+**4. Keep original data available.**
 Save the cleaned result to a chosen output location while retaining the original file for comparison and review.
 
-5. See what happened.
+**5. See what happened.**
 View execution status and completion information, then inspect the resulting output before using it in production.
 
 Actual time savings depend on the user's data, workload, and existing process.
