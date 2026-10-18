@@ -26,8 +26,6 @@ HeadWater Corporate
 HeadWater's AI Digital Products Division
 
 
-# HeadWater AI Data Ingestion Engine
-
 ## Product Overview
 
 The HeadWater AI Data Ingestion Engine is a standalone, executable Python digital product designed to help prepare incoming data for AI ingestion workflows.
