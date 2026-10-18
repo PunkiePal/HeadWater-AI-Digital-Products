@@ -44,7 +44,7 @@ Its capabilities include:
 
 Refer to the included customer documentation for the exact supported inputs, operating requirements, usage instructions, and limitations.
 
-## 5 W's of enterprise time savings and How the HeadWater AI Data Ingestion Engine saves you time
+## 5 W's of enterprise time savings and how the HeadWater AI Data Ingestion Engine saves you time
 
 - **Who:** Engineers and data teams who have to get raw files ready for AI before anything else can happen.
 - **What:** A finished, tested package that runs incoming files through a defined workflow and reports what it finds. Nothing to design, write or debug first.
