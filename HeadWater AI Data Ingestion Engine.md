@@ -14,17 +14,9 @@ Our goal is to deliver ready-to-use software that customers can run and evaluate
 
 Our Products
 
-HeadWater AI Data Ingestion Engine
-
-Designed to support data ingestion workflows.
-
-HeadWater Data Preparation Engine
-
-Designed to support data preparation workflows.
-
-HeadWater Text Cleansing Engine
-
-Designed to support text cleansing workflows.
+- "HeadWater AI Data Ingestion Engine" () — Designed to support data ingestion workflows.
+- "HeadWater Data Preparation Engine" (PASTE_PURPLE_PRODUCT_PAGE_URL_HERE) — Designed to support data preparation workflows.
+- "HeadWater Text Cleansing Engine" (PASTE_ORANGE_PRODUCT_PAGE_URL_HERE) — Designed to support text cleansing workflows.
 
 Visit our product pages to explore available downloads, product capabilities, and additional information.
 
