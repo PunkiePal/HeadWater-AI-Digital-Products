@@ -23,7 +23,7 @@ Our Approach to Engineering
 
 Our development approach emphasizes:
 
-- Industry-informed development: Researching real problems and evaluating opportunities before committing to product development.
+- **Industry-informed development:** Researching real problems and evaluating opportunities before committing to product development.
 - Defined engineering scope: Establishing what a product is intended to do and the requirements it must meet.
 - Testing and qualification: Evaluating product behavior against applicable requirements and recording results.
 - Usability and documentation: Providing customers with clear information, appropriate interfaces, and instructions for using their products.
