@@ -57,11 +57,11 @@ The HeadWater Data Preparation Engine processes selected input files or director
 When a repeatable, executable data-preparation workflow can help reduce manual handling and make processing results easier to review.
 
 **WHERE DOES IT FIT?**
-* Transform the qualified module into a documented, packaged digital product for customers.
+Transform the qualified module into a documented, packaged digital product for customers.
 
-ENGINEERING WORK THAT GOES BEYOND A DOWNLOAD
+# ENGINEERING WORK THAT GOES BEYOND A DOWNLOAD
 
-300+ hours of design and engineering work was required to develop HeadWater's product.
+**300+ hours of design and engineering work was required to develop this product.**
 
 HeadWater's work includes market evaluation, product design, executable engineering, testing, qualification, documentation, and packaging. The objective is to deliver a functional product with supporting materials—not merely an idea, a specification, or an unfinished prototype.
 
