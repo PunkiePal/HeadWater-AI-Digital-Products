@@ -34,7 +34,7 @@ In a compatible Python 3 environment where supported text files need to be proce
 
 **WHY — Why Does It Matter?**
 
-<a href="https://payhip.com/b/vmcjQ" style="display:inline-block; padding:16px 32px; background:#1a73e8; color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px;">Purchase the full engine for $3,068</a>
+<a href="https://payhip.com/b/vmcjQ" style="display:inline-block; padding:16px 32px; background:#1a73e8; color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:8px;
 
 Manual data preparation can consume valuable engineering time. A dedicated cleansing engine provides a repeatable way to perform its supported cleaning operations, helping users spend less effort on routine cleanup and more time on their primary work.
 
