@@ -31,7 +31,7 @@ Our development approach emphasizes:
 
 We aim to make the engineering work behind our products useful and accessible to customers without requiring them to understand or reproduce the proprietary implementation details behind each solution.
 
-What We Develop
+# What We Develop
 
 HeadWater AI Digital Products develops and sells off-the-shelf digital products designed to address specific technical and operational needs.
 
@@ -39,9 +39,9 @@ Our product portfolio includes solutions related to AI data ingestion, data prep
 
 Each product has its own scope, description, documentation, licensing terms, and purchasing destination. Product-specific pages provide the relevant details for customers evaluating an individual product.
 
-Product Directory
+# Product Directory
 
-Explore the individual product pages and their associated information:
+**Explore the individual product pages and their associated information:**
 
 - "HeadWater AI Data Ingestion Engine" (HeadWater%20AI%20Data%20Ingestion%20Engine.md)
 - "HeadWater Data Preparation Engine" (headwater-data-preparation-engine-.md)
