@@ -16,6 +16,11 @@ HeadWater's AI Digital Products Division Established 2026. Corporate was establi
 
 HeadWater's AI Digital Products is the division responsible for developing and commercializing our AI-focused digital products. The division concentrates on technical challenges associated with preparing, processing, and managing information for artificial intelligence and related business operations.
 
+# Zero token fees. 
+# Zero subscriptions
+# Your data stays yours
+# Pay once, run 24/7/365 on your cloud infrastructure
+
 # Why We Exist
 
 Artificial intelligence creates opportunities for organizations across many industries, but implementing AI effectively involves more than selecting a model or connecting a system. The information supporting those systems, the processes surrounding it, and the technical challenges of operational use all matter.
