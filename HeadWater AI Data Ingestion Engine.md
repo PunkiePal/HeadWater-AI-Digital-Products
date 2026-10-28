@@ -25,7 +25,7 @@ The **Headwater AI Data Ingestion Engine (v1.0)** processes raw, inconsistently 
 
 Tested and verified across enterprise operating environments:
 
-* **Windows:** Fully verified (Windows 10 / 11 & Windows Server)
+* **Windows- Fully verified:** Windows 10 / 11 & Windows Server
 * **Linux:** Fully verified (Ubuntu 20.04 / 22.04 LTS & mainstream distros)
 * **macOS:** Fully verified (Intel & Apple Silicon)
 
