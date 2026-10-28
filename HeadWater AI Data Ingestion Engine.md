@@ -78,7 +78,7 @@ The full applicable license terms govern use of the product.
 
 Purchase and delivery will be handled through HeadWater's Payhip product listing.
 
-[Payhip purchase link](https://payhip.com/b/lmFL9)
+[HeadWater AI Data Ingestion Engine purchase link](https://payhip.com/b/lmFL9)
 
 ## Product Documentation
 
