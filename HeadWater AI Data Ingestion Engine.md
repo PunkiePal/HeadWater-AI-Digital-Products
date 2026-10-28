@@ -11,7 +11,7 @@
 
 ## ⚡ How the Engine Prepares Data for AI Models
 
-The **Headwater AI Data Ingestion Engine (v1.0)** acts as a deterministic firewall between raw, messy input files and downstream AI/ML pipelines.
+The **Headwater AI Data Ingestion Engine (v1.0)** processes raw, inconsistently formatted input files into clean, standardizeddata for downstream AI and machine learning pipelines. It provides a consistent, repeatable processing layer between incoming data and the systems that consume it.
 
 ### 🛠️ What the Engine Does Under the Hood:
 * **Encoding & Text Normalization:** Automatically converts mixed-encoding files (ASCII, Latin-1, UTF-16) to clean UTF-8 while stripping non-printable characters and malformed control bytes.
