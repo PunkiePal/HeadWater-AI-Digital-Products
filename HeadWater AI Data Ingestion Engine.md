@@ -35,7 +35,7 @@ The HeadWater AI Data Ingestion Engine is a standalone, executable Python digita
 
 HeadWater develops and sells AI digital products that solve real industry problems.
 
-## What the Product Does
+## What the AI Data Ingestion Engine Does
 
 The Version 1.0 engine provides a structured data-ingestion preparation workflow designed to process files before they enter downstream AI environments.
 
