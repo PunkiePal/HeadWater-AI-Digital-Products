@@ -2,6 +2,8 @@
 
 **About HeadWater**
 
+[Payhip purchase link](https://payhip.com/b/lmFL9)
+
 HeadWater is a business that develops and sells AI digital products that solve real industry problems.
 
 Through the HeadWater's AI Digital Products Division, we develop practical, standalone software products designed to address real operational challenges in data ingestion, data preparation, text cleansing, and AI-related workflows.
