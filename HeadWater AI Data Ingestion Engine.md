@@ -39,7 +39,7 @@ Skip weeks of custom regex development, parsing logic implementation, and pipeli
 | **Product** | Headwater AI Data Ingestion Engine |
 | **Version** | `1.0` |
 | **Format** | Standalone Executable Python Package |
-| **Delivery** | Instant Download |
+| **Delivery** | Instant Zip Download |
 | **License** | Perpetual, non-exclusive internal business license for one organization. |
 
 👉 **[Click Here to Buy License & Download Instantly](https://payhip.com/b/lmFL9)**
