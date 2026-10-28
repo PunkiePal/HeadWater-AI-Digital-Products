@@ -42,7 +42,7 @@ Skip weeks of custom regex development, parsing logic implementation, and pipeli
 | **Delivery** | Instant Zip Download |
 | **License** | Perpetual, non-exclusive internal business license for one organization. |
 
-**One-time purchase. No monthly fees, no annual subscriptions, no recurring charges. Pay once and retain the licensed right to use the product under the applicable license terms.**
+**One-time purchase. No monthly fees, no annual subscriptions, no recurring charges. Pay once and retain the licensed right to use the product under the license terms stated for the HeadWater AI Data Ingestion Engine.**
 
 👉 **[Click Here to Buy License & Download Instantly](https://payhip.com/b/lmFL9)**
 
