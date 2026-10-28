@@ -42,7 +42,7 @@ Skip weeks of custom regex, parsing logic, and pipeline debugging.
 | **Delivery** | Instant Download via Payhip |
 | **License** | Perpetual, non-exclusive internal business license for one organization. |
 
-👉 **[Click Here to Buy License & Download Instantly on Payhip](https://payhip.com/b/lmFL9)**
+👉 **[Click Here to Buy License & Download Instantly](https://payhip.com/b/lmFL9)**
 
 ---
 
