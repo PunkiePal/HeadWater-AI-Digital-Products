@@ -2,7 +2,7 @@
 
 **About HeadWater**
 
-[Payhip purchase link](https://payhip.com/b/lmFL9)
+[HeadWater AI Data Ingestion Engine purchase link](https://payhip.com/b/lmFL9)
 
 HeadWater is a business that develops and sells AI digital products that solve real industry problems.
 
