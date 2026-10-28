@@ -6,7 +6,6 @@
 [![Buy License on Payhip](https://img.shields.io/badge/Buy_License-Payhip_Checkout-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/lmFL9)
 [![Windows Verified](https://img.shields.io/badge/OS-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#platform-compatibility)
 [![Linux Verified](https://img.shields.io/badge/OS-Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#platform-compatibility)
-[![Mac Verified](https://img.shields.io/badge/OS-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](#platform-compatibility)
 
 ---
 
