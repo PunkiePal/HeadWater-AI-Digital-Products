@@ -11,10 +11,10 @@
 
 ## ⚡ How the Engine Prepares Data for AI Models
 
-The **Headwater AI Data Ingestion Engine (v1.0)** processes raw, inconsistently formatted input files into clean, standardizeddata for downstream AI and machine learning pipelines. It provides a consistent, repeatable processing layer between incoming data and the systems that consume it.
+The **Headwater AI Data Ingestion Engine (v1.0)** processes raw, inconsistently formatted input files into clean, standardized data for downstream AI and machine learning pipelines. It provides a consistent, repeatable processing layer between incoming data and the systems that consume it.
 
 ### 🛠️ What the Engine Does Under the Hood:
-* **Encoding & Text Normalization:** Automatically converts mixed-encoding files (ASCII, Latin-1, UTF-16) to clean UTF-8 while stripping non-printable characters and malformed control bytes.
+* **Encoding & Text Normalization:** Converts supported mixed-encoding files ASCII, Latin-1, and UTF-16, into standardized UTF-8 text. Removes non-printable characters and malformed control bytes to help produce cleaner, more consistent input for downstream processing.
 * **Schema & Structure Validation:** Inspects incoming files for missing fields, inconsistent delimiter alignment, or corrupt data blocks before downstream models break.
 * **AI-Ready Formatting:** Prepares and standardizes text structures into consistent, high-density formats (JSON/JSONL/Clean CSV) designed for direct vector embedding, LLM fine-tuning, or ingestion pipelines.
 * **Reporting & Anomaly Flags:** Generates detailed execution logs detailing discarded records, structural warnings, and throughput metrics.
