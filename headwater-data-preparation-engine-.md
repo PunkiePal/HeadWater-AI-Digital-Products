@@ -56,4 +56,4 @@ One-time purchase, no monthly fees, no annual subscriptions, no recurring charge
 * 
 
 ### 🚀 Get Started Today
-👉 **[Purchase Commercial License for instant download]()**
+👉 **[Purchase Commercial License for instant download](https://payhip.com/b/u0nR8)**
