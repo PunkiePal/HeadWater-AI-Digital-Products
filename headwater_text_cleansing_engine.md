@@ -18,7 +18,7 @@ Headwater Text Cleansing Engine processes raw, inconsistently formatted input te
 
 ### What the Engine Does Under the Hood:
 
-* **Encoding & Text Normalization:** Processes input text in supported encodings, including ASCII, Latin-1, and UTF-16, and normalizes the resulting text to UTF-8. Removes non-printable characters and malformed control bytes that can interfere with downstream data processing. This standardization helps deliver consistent text input to subsequent AI and machine learning workflows.
+* **Text Normalization and Noise removal:** Processes UTF-8 text input, trims whitespace and removes authorized noise while preserving Unicode content, identifiers, and values. Rejects invalid UTF-8 input to  help maintain consistent text handling in downstream workflows.
 * **Schema & Structure Validation:** Inspects incoming files for missing required fields, inconsistent delimiter alignment, and corrupted data blocks before they enter into downstream AI and machine learning pipelines. Identifies structural data issues early, helping prevent malformed input from disrupting subsequent processing.
 * **AI-Ready Formatting:** Prepares and standardizes text into consistent structured output formats, including JSON/JSONL/clean text. These formats support downstream workflows such as data ingestion, and large language model, (LLM) fine-tuning, helping to reduce manual data preparation before integration into AI pipelines.
 * **Reporting & Anomaly Flags:** Generates detailed execution logs documenting discarded records, structural warnings, and processing throughput metrics. These reports help users understand how data input was handled, identify data-quality issues, and monitor processing performance.
