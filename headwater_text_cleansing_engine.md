@@ -8,7 +8,7 @@ He will not suffer thy foot to be moved: he that keepeth thy will not slumber Ps
 [![Windows Verified](https://img.shields.io/badge/OS-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#platform-compatibility)
 [![Linux Verified](https://img.shields.io/badge/OS-Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#platform-compatibility)
 
-YOU CAN HAVE IT  NOW
+## YOU CAN HAVE IT  NOW
 
 ---
 
