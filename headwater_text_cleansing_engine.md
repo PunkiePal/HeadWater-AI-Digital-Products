@@ -2,6 +2,7 @@
 
 Enterprise-grade standalone executable Python product engineered to automate text cleansing for AI workflows. Save 300+ engineering hours and skip months of custom pipeline development with pre-packaged, zero-maintenance execution.
 
+He will not suffer thy foot to be moved: he that keepeth thy will not slumber Psalm 121:3
 
 [![Buy License ](https://img.shields.io/badge/Buy_License-Checkout-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/vmcjQ)
 [![Windows Verified](https://img.shields.io/badge/OS-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#platform-compatibility)
@@ -11,7 +12,7 @@ Enterprise-grade standalone executable Python product engineered to automate tex
 
 ## How the Engine Cleanses Text for AI Models
 
-Headwater Text Cleansing Engine (v1.0) processes raw, inconsistently formatted input text into clean, standardized datasets ready for downstream AI and machine learning pipelines. It provides a consistent, repeatable processing layer between incoming text data and the systems that consume it.
+Headwater Text Cleansing Engine processes raw, inconsistently formatted input text into clean, standardized datasets ready for downstream AI and machine learning pipelines. It provides a consistent, repeatable processing layer between incoming text data and the systems that consume it.
 
 ### What the Engine Does Under the Hood:
 
