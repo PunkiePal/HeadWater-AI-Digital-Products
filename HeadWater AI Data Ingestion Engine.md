@@ -54,7 +54,7 @@ Skip weeks of custom regex development, parsing logic implementation, and pipeli
 
 * **Who:** Engineers and data teams who need to standardize and validate incoming data files for downstream AI and machine learning workflows.
 * **What:** A finished, fully-tested Python executable product ready to use. Nothing to design, write, or debug from scratch.
-* **When:** Every time new raw data arrives, run the engine the same way to apply a consistent processing workflow each time.
+* **When:** Every time new raw data arrives, run the engine to apply the same consistent processing workflow each time.
 * **Where:** Inside your own infrastructure, as a packaged Python product that you control and operate within your environment.
 * **Why:** Building comparable functionality yourself would require **300+ engineering hours**, equivalent to or more than 8 full-time work weeks. Purchase the finished engine for a fraction of the cost of development from scratch. 
 
