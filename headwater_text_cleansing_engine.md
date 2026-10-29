@@ -50,7 +50,7 @@ One-time purchase, no monthly fees, no annual subscriptions, no recurring charge
 
 ## The 5 W's: Why Buy Instead of Build?
 
-* **Who:** Engineers and data teams who need to standardize and validate incoming data files for downstream AI and machine learning workflows.
+* **Who:** Engineers and data teams who need to cleanse standardize text input for downstream AI and machine learning workflows.
 * **What:** A finished, fully-tested Python executable product ready to use. Nothing to design, write, or debug from scratch.
 * **When:** Every time new raw data arrives, run the engine the same way to apply a consistent processing workflow each time.
 * **Where:** Inside your own infrastructure, as a packaged Python product that you control and operate within your environment.
