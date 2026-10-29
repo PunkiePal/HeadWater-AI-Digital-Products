@@ -3,6 +3,11 @@
 Enterprise-grade standalone executable Python product engineered to automate text cleansing for AI workflows. Save 300+ engineering hours and skip months of custom pipeline development with pre-packaged, zero-maintenance execution.
 
 
+[![Buy License ](https://img.shields.io/badge/Buy_License-Checkout-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/lmFL9)
+[![Windows Verified](https://img.shields.io/badge/OS-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#platform-compatibility)
+[![Linux Verified](https://img.shields.io/badge/OS-Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#platform-compatibility)
+
+---
 
 ## How the Engine Cleanses Text for AI Models
 
