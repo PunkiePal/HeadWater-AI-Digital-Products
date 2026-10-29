@@ -2,7 +2,7 @@
 
 Enterprise-grade standalone executable Python engine, engineered to automate text cleansing for AI workflows. Save 250+ engineering hours and skip months of custom pipeline development with pre-packaged, zero-maintenance execution.
 
-**He will not suffer thy foot to be moved: he that keepeth thy will not slumber Psalm 121:3**
+## He will not suffer thy foot to be moved: he that keepeth thy will not slumber Psalm 121:3
 
 [![Buy License ](https://img.shields.io/badge/Buy_License-Checkout-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/vmcjQ)
 [![Windows Verified](https://img.shields.io/badge/OS-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#platform-compatibility)
