@@ -5,7 +5,7 @@
 Enterprise-grade standalone executable Python product engineered to automate data preparation for AI workflows. Save 300+ engineering hours and skip months of custom pipeline development with pre-packaged, zero-maintenance execution.
 
 
-[![Free Sample](https://img.shields.io/badge/DOWNLOAD-FREE_SAMPLE-brightgreen?style=for-the-badge&logo=github)]()
+[![Free Sample](https://img.shields.io/badge/DOWNLOAD-FREE_SAMPLE-brightgreen?style=for-the-badge&logo=github)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/a83d0631016f6db0180976e83568c4015002f3a0/headwater_hf_release_sample_data_preparation_engine.zip)
 [![Buy License ](https://img.shields.io/badge/Buy_License-Checkout-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/u0nR8)
 [![Windows Verified](https://img.shields.io/badge/OS-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#platform-compatibility)
 [![Linux Verified](https://img.shields.io/badge/OS-Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#platform-compatibility)
