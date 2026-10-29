@@ -1,5 +1,7 @@
 # HeadWater Data Preparation Engine
 
+**He will not suffer thy foot to be moved:he that keepeth thy will not slumber. Psalm 121:3
+
 Enterprise-grade standalone executable Python product engineered to automate data preparation for AI workflows. Save 300+ engineering hours and skip months of custom pipeline development with pre-packaged, zero-maintenance execution.
 
 `BUY LICENSE` `CHECKOUT` `OS` `WINDOWS 10/11` `OS` `UBUNTU LINUX`
