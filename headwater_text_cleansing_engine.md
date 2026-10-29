@@ -20,8 +20,8 @@ Headwater Text Cleansing Engine processes raw, inconsistently formatted input te
 
 * **Text Normalization and Noise removal:** Processes UTF-8 text input, trims whitespace and removes authorized noise while preserving Unicode content, identifiers, and values. Rejects invalid UTF-8 input to  help maintain consistent text handling in downstream workflows.
 * **Protected Content Preservation:** Preserves identifiers and values while removing authorized text noise, helping prevent unintended changes to meaningful content during text cleansing.
-* **AI-Ready Formatting:** Prepares and standardizes text into consistent structured output formats, including JSON/JSONL/clean text. These formats support downstream workflows such as data ingestion, and large language model, (LLM) fine-tuning, helping to reduce manual data preparation before integration into AI pipelines.
-* **Reporting & Anomaly Flags:** Generates detailed execution logs documenting discarded records, structural warnings, and processing throughput metrics. These reports help users understand how data input was handled, identify data-quality issues, and monitor processing performance.
+* **Clean Text Output:** Produces cleansed text output with whitespace trimmed and authorized text noise removed, while preserving Unicode content, identifiers, and values. The resulting text is intended for use in downstream data-processing and AI workflows.
+* **Processing Results:** Provides processing results that help users understand the outcome of text cleansing. This  supports review of the processed output and helps users determine whether the resulting text is ready for downstream workflows. 
 
 ## Cross-Platform Reliability & OS Support
 
