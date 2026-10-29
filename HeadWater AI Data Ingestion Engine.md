@@ -1,5 +1,7 @@
 # Headwater AI Data Ingestion Engine
 
+**He will not suffer thyfoot to be moved: he that keepth thee will not slumber Psalm 121:3**
+
 > **Enterprise-grade standalone executable Python product engineered to automate data preparation for AI workflows.**  
 > *Save 300+ engineering hours and skip months of custom pipeline development with pre-packaged, zero-maintenance execution.*
 
