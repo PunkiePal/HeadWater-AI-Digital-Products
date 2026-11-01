@@ -15,7 +15,7 @@
 
 ## YOU CAN HAVE IT NOW
 
-## Each Engine Represents:
+### Each Engine Represents:
 * **Market research and due diligence**
 * **Design and Architecture**
 * **Development and Implementation**
