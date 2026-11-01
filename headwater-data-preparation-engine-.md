@@ -21,6 +21,10 @@ Enterprise-grade standalone executable Python product engineered to automate dat
 * **Corrections and Refinement**
 * **Qualification and Documented Evidence**
 
+**Customer-Configurable Operation**
+
+Each engine is designed for integration into customer environments, with configurable operating parameters that allow customers to establish how information is handled within their intended workflows.
+
 ## How the Engine Prepares Data for AI Models
 
 Headwater Data Preparation Engine processes input files and produces prepared output for downstream data and AI workflows. It provides a repeatable processing layer between incoming data and the systems that consume the resulting output.
