@@ -17,7 +17,7 @@
 
 ## Each Engine Represents:
 * **-Market research and due diligence**
--Design and Architecture
+* **-Design and Architecture**
 -Development and Implementation
 -Testing and Troubleshooting
 -Quality Control Evaluation and Documentation
