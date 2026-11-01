@@ -66,7 +66,9 @@ One-time purchase, no monthly fees, no annual subscriptions, no recurring charge
 * **Why:** Building comparable functionality yourself would require 320+ engineering hours, equivalent to or more than 8 full-time work weeks. Purchase the finished engine for a fraction of the cost of development from scratch.
 
   ---
+Contact us: [headwateraistudio@outlook.com](mailto:headwateraistudio@outlook.com)
 
+[Learn more about HeadWater's AI Digital Products Division](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md)
   ---
 
 
