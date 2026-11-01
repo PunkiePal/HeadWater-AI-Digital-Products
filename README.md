@@ -3,8 +3,6 @@
 
 **About HeadWater's AI Digital Products**
 
-HeadWater Corporate: HeadWater's AI Digital Products Division
-
 For business inquiries, product questions, and other communications, contact us at:
 
 Email: headwateraistudio@outlook.com
