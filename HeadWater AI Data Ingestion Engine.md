@@ -21,7 +21,7 @@
 * **Development and Implementation**
 * **Testing and Troubleshooting**
 * **Quality Control Evaluation and Documentation**
-* **Correctiona and Refinement**
+* **Corrections and Refinement**
 * **Qualification and Documented Evidence**
 
 ## ⚡ How the Engine Prepares Data for AI Models
