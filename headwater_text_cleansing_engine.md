@@ -68,5 +68,9 @@ One-time purchase, no monthly fees, no annual subscriptions, no recurring charge
 
 ---
 
+* 📧 **Contact Us:** [headwateraiastudio@outlook.com](mailto:headwateraiastudio@outlook.com)
+* 🌐 **Corporate Overview:** [Learn more about Headwater's AI Digital Products Division](https://github.com/PunkiePal/HeadWater-AI-Digital-Products)
+---
+
 ### 🚀 Get Started Today
 👉 **[Purchase Commercial License $3,068.00 for instant download](https://payhip.com/b/vmcjQ)**
