@@ -22,6 +22,10 @@ Enterprise-grade standalone executable Python engine, engineered to automate tex
 * **Corrections and Refinement**
 * **Qualification and Documented Evidence**
 
+**Customer-Configurable Operation**
+
+Each engine is designed for integration into customer environments, with configurable operating parameters that allow customers to establish how information is handled within their intended workflows.
+
 ## How the Engine Cleanses Text for AI Models
 
 Headwater Text Cleansing Engine processes raw, inconsistently formatted input text into clean, standardized datasets ready for downstream AI and machine learning pipelines. It provides a consistent, repeatable processing layer between incoming text data and the systems that consume it.
