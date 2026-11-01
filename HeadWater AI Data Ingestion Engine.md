@@ -16,8 +16,8 @@
 ## YOU CAN HAVE IT NOW
 
 ## Each Engine Represents:
-* **-Market research and due diligence**
-* **-Design and Architecture**
+* **Market research and due diligence**
+* **Design and Architecture**
 -Development and Implementation
 -Testing and Troubleshooting
 -Quality Control Evaluation and Documentation
