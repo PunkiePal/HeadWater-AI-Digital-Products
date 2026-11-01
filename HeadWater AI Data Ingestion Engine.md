@@ -62,5 +62,9 @@ Skip weeks of custom regex development, parsing logic implementation, and pipeli
 
 ---
 
+<p>Contact us: <a href="mailto:headwateraistudio@outlook.com">headwateraistudio@outlook.com</a></p>
+
+---
+
 ### 🚀 Get Started Today
 👉 **[Purchase Commercial License $3,709.00 for instant download](https://payhip.com/b/lmFL9)**
