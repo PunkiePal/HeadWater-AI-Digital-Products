@@ -69,6 +69,8 @@ One-time purchase, no monthly fees, no annual subscriptions, no recurring charge
 Contact us: [headwateraistudio@outlook.com](mailto:headwateraistudio@outlook.com)
 
 
+[Learn more about HeadWater's AI Digital Products Division](https://github.com/PunklePal/HeadWater-AI-Digital-Products/blob/main/README.md)
+
   ---
 
 
