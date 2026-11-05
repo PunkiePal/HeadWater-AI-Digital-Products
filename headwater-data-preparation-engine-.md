@@ -7,8 +7,6 @@ Enterprise-grade standalone executable Python product engineered to automate dat
 
 [![Free Sample](https://img.shields.io/badge/DOWNLOAD-FREE_SAMPLE-brightgreen?style=for-the-badge&logo=github)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/raw/refs/heads/main/headwater_hf_release_sample_data_preparation.zip)
 [![Buy License ](https://img.shields.io/badge/Buy_License-Checkout-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/u0nR8)
-[![Windows Verified](https://img.shields.io/badge/OS-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#platform-compatibility)
-[![Linux Verified](https://img.shields.io/badge/OS-Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#platform-compatibility)
 
 ## YOU CAN HAVE IT NOW
 
