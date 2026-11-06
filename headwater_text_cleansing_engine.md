@@ -5,7 +5,7 @@ Enterprise-grade standalone executable Python engine, engineered to automate tex
 ## He will not suffer thy foot to be moved: he that keepeth thy will not slumber Psalm 121:3
 
 [![Free Sample](https://img.shields.io/badge/DOWNLOAD-FREE_SAMPLE-brightgreen?style=for-the-badge&logo=github)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/raw/refs/heads/main/headwater_text_cleansing_free_sample.zip)
-[![Buy License ](https://img.shields.io/badge/Buy_License-Checkout-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/vmcjQ)
+[![Buy License ](https://img.shields.io/badge/Buy_License-$3,068.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/vmcjQ)
 
 ---
 ## YOU CAN HAVE IT  NOW
