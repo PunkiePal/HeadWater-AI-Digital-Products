@@ -1,6 +1,6 @@
 # HEADWATER AI Live System Sanitation Runtime Engine
 
-**He not will not suffer thy foot to be moved:he that keepeth thee will not slumber. Psalm 121:3
+**He not will not suffer thy foot to be moved:he that keepeth thee will not slumber. Psalm 121:3**
 
 This engine acts as a **fail-safe, automated protocol layer** designed to continuously scan, sanitize, and validate system resources during live production runtime operations.
 
