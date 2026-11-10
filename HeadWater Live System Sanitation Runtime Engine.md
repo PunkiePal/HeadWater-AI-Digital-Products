@@ -6,8 +6,11 @@ This engine acts as a **fail-safe, automated protocol layer** designed to contin
 
 The runtime engine functions as a localized pipeline utility that systematically scrubs transient workflows, handles data sanitation anomalies, and maintains the baseline operational integrity of live processes.
 
-[🚀 Buy License] [$229.00]
 
+[![Free Sample](https://img.shields.io/badge/Free_Sample-Download-brightgreen)]()
+[![Buy License ](https://img.shields.io/badge/Buy_License-$229.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/lmFL9)
+
+[🚀 Buy License] [$229.00]
 ## You Can Have it Now
 
 ### Each Engine Embodies
