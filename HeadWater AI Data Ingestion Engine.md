@@ -24,10 +24,13 @@
 
 ---
 
+ OWhy it exists
 
-**Customer-Configurable Operation**
+Text files can carry things you can’t see: hidden and control characters, look-alike characters standing in for plain ones, and invisible joiners. Red exists to clean those out so the text you use is plain. It works the same way every time, and after every run it tells you what happened.peration**
 
 Each engine is designed for integration into customer environments, with configurable operating parameters that allow customers to establish how information is handled within their intended workflows.
+
+---
 
 ## ⚡ How the Engine Prepares Data for AI Models
 
