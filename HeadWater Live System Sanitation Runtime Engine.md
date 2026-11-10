@@ -4,7 +4,7 @@
 
 This engine provides a controlled runtime sanitation layer designed to enforce processing restrictions, preserve protected content, and maintain consistent execution during supported workflow operations.
 
-The runtime engine applies controlled prompt-gateway processing, enforces a defined 400-token limit, and provides processing status and error reporting through its execution interface.
+The runtime engine applies controlled prompt-gateway processing, enforces a defined 400-word limit, and provides processing status and error reporting through its execution interface.
 
 [![Free Sample](https://img.shields.io/badge/Free_Sample-Download-brightgreen)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/raw/refs/heads/main/headwater_hf_sanitation_runtime_release_sample.zip)
 [![Buy License ](https://img.shields.io/badge/Buy_License-$99.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/P6XZE)
