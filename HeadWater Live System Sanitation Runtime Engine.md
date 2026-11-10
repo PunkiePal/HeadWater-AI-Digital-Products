@@ -7,7 +7,7 @@ This engine acts as a **fail-safe, automated protocol layer** designed to contin
 The runtime engine functions as a localized pipeline utility that systematically scrubs transient workflows, handles data sanitation anomalies, and maintains the baseline operational integrity of live processes.
 
 
-https://github.com/OWNER/REPOSITORY/raw/refs/heads/main/FILENAME.zip[![Free Sample](https://img.shields.io/badge/Free_Sample-Download-brightgreen)](https://github.com/OWNER/REPOSITORY/raw/refs/heads/main/)
+[![Free Sample](https://img.shields.io/badge/Free_Sample-Download-brightgreen)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/raw/refs/heads/main/headwater_hf_sanitation_runtime_release_sample.zip)
 [![Buy License ](https://img.shields.io/badge/Buy_License-$229.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/P6XZE)
 
 ## You Can Have it Now
