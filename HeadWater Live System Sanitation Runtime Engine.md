@@ -10,7 +10,6 @@ The runtime engine functions as a localized pipeline utility that systematically
 [![Free Sample](https://img.shields.io/badge/Free_Sample-Download-brightgreen)]()
 [![Buy License ](https://img.shields.io/badge/Buy_License-$229.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/lmFL9)
 
-[🚀 Buy License] [$229.00]
 ## You Can Have it Now
 
 ### Each Engine Embodies
