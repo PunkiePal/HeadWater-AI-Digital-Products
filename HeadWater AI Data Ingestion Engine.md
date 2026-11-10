@@ -24,7 +24,7 @@
 
 ---
 
- OWhy it exists
+ Oh, Why it exists? Here's why
 
 Text files can carry things you can’t see: hidden and control characters, look-alike characters standing in for plain ones, and invisible joiners. Red exists to clean those out so the text you use is plain. It works the same way every time, and after every run it tells you what happened.peration**
 
