@@ -95,7 +95,7 @@ One-time purchase, no monthly fees, no annual subscriptions, no recurring charge
 
 Contact us: headwateraistudio@outlook.com
 
-To learn more about HeadWater and HeadWater's AI Digital Products division, [click here](YOUR HEADWATER CORPORATE PAGE URL).
+To learn more about HeadWater and HeadWater's AI Digital Products division, [click here](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md).
 
 ### 🚀 Get Started Today
 
