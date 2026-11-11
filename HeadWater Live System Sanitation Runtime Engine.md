@@ -1,6 +1,6 @@
 # HEADWATER Live System Sanitation Runtime Engine
 
-**He not will not suffer thy foot to be moved:he that keepeth thee will not slumber. Psalm 121:3**
+**He not will not suffer thy foot to be moved: he that keepeth thee will not slumber. Psalm 121:3**
 
 This engine provides a controlled runtime sanitation layer designed to enforce processing restrictions, preserve protected content, and maintain consistent execution during supported workflow operations.
 
@@ -26,11 +26,31 @@ The runtime engine applies controlled prompt-gateway processing, enforces a defi
 
 The engine strictly enforces data hygiene and pipeline structural compliance across all running threads. It executes sequentially to ensure zero-downtime execution environments.
 
-### 🔍 Core Engine Phases Engine — Phase Details
+### 🔍 Core Engine — Phase Details
 
-1. **INITIAL ENVIRONMENT TRACING & INGESTION:** The engine logs execution variables and monitors ambient system parameters. This documentation details how initialization scripts spin up tracking worker tasks to track long-running production components dynamically.
-2. **THREAD CONCURRENCY ISOLATION & BALANCING:** It enforces parallel isolation configurations across active processes to avoid deadlocks. This guarantees zero resource contention while maintaining microservice compliance metrics.
-3. **FAIL-SAFE LIVE SANITATION PROTOCOLS:** Cleans runtime telemetry data pipelines on the fly without interrupting user traffic. Built-in exception handling logic catches memory drift or validation leaks instantly before logs rotate.
+The HeadWater Live System Sanitation Runtime Engine operates through a controlled processing architecture designed to enforce defined execution restrictions, preserve protected content, and deliver deterministic processing results.
+
+The engine incorporates the following core capabilities:
+
+1. Controlled Prompt Gateway Processing
+
+Applies controlled prompt gateway processing to manage incoming content and enforce defined processing restrictions.
+
+2. Defined Token Restriction
+
+Enforces a defined 400-token limit within the engine's processing operations.
+
+3. Deterministic Processing
+
+Uses deterministic processing to maintain consistent and predictable processing behavior.
+
+4. Protected-Content Preservation
+
+Preserves designated protected content during processing to prevent unintended modification.
+
+5. Processing Status and Error Reporting
+
+Provides execution status and error reporting through the engine's execution interface, allowing users to identify processing progress and reported execution issues.
 
 ---
 
