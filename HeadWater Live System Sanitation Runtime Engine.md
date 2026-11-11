@@ -81,7 +81,7 @@ Skip weeks of custom regex development, parsing logic implementation, and pipeli
 | **Version** | 1.0 |
 | **Format** | Standalone Executable Python Package |
 | **Delivery** | Instant Zip Download |
-| **License** | Perpetual, non-exclusive internal business license for one organization. |
+| **License** | Purchase a Perpetual, non-exclusive internal business license for one organization. |
 
 One-time purchase, no monthly fees, no annual subscriptions, no recurring charges. Pay once and retain the licensed right to use the product under the license terms stated above for the Headwater AI Live System Sanitation Runtime Engine.
 
