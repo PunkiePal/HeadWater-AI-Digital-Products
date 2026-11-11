@@ -37,7 +37,7 @@ The engine strictly enforces data hygiene and pipeline structural compliance acr
 
 # Verified Execution Environments
 
-The HeadWater Live System Sanitation Runtime Engine has successfully completed execution testing through GitHub Actions in the following environments:
+The HeadWater Live System Sanitation Runtime Engine successfully executes in the following environments:
 
 - Windows 11 ARM
 - Windows Server 2025
