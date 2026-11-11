@@ -91,11 +91,12 @@ One-time purchase, no monthly fees, no annual subscriptions, no recurring charge
 * **What:** A finished, fully-tested Python executable engine ready to use. Nothing to design, write, or debug from scratch.
 * **When:** Whenever live runtime workflows are active, running the engine to apply the same consistent processing framework each time.
 * **Where:** Inside your own infrastructure, as a standalone Python engine that you control and operate within your environment.
-* **Why:** Why: Save weeks of development time by purchasing a finished, tested runtime engine. Save the time of designing, developing, troubleshooting, testing, and integrating live system sanitation.
+* **Why:** Save weeks of development time by purchasing the complete runtime engine. Save the time of designing, developing, troubleshooting, testing, and integrating live system sanitation.
 
 Contact us: headwateraistudio@outlook.com
 
 Learn more about HeadWater's AI Digital Products Division
 
 ### 🚀 Get Started Today
-* Purchase Commercial License $99.00 for instant download
+
+[Click here to purchase](https://payhip.com/b/P6XZE)
