@@ -36,9 +36,9 @@ The engine incorporates the following core capabilities:
 
 Applies controlled prompt gateway processing to manage incoming content and enforce defined processing restrictions.
 
-2. Defined Token Restriction
+2. Defined Word Restriction
 
-Enforces a defined 400-token limit within the engine's processing operations.
+Enforces a defined 400-word limit within the engine's processing operations.
 
 3. Deterministic Processing
 
