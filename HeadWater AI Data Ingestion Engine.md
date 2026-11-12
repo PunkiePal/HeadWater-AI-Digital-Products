@@ -6,7 +6,7 @@
 > *Save 300+ engineering hours and skip months of custom pipeline development with pre-packaged, zero-maintenance execution.*
 
 
-[![Free Sample](https://img.shields.io/badge/Free_Sample-Download-brightgreen)]()
+[![Free Sample](https://img.shields.io/badge/Free_Sample-Download-brightgreen)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/headwater_hf_ai_data_ingestion_sample.zip)
 [![Buy License ](https://img.shields.io/badge/Buy_License-$229.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/lmFL9)
 
 ---
