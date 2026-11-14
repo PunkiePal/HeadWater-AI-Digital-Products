@@ -3,7 +3,7 @@
 
 **About HeadWater's AI Digital Products**
 
-For business inquiries, product questions, and other communications, contact us at:
+contact us:
 
 Email: headwateraistudio@outlook.com
 
