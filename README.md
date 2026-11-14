@@ -19,11 +19,6 @@ This repository serves as a public information and documentation hub for HeadWat
 
 Customers should consult each product's own documentation and licensing information for its specific scope, intended use, requirements, and terms of purchase.
 
-Business Contact
-
-HeadWater Corporate
-Division: HeadWater's AI Digital Products
-
 contact us at:
 
 Email: headwateraistudio@outlook.com
