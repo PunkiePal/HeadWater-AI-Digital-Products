@@ -17,7 +17,7 @@ This repository serves as a public information and documentation hub for HeadWat
 
 Customers should consult each product's own documentation and licensing information for its specific scope, intended use, requirements, and terms of purchase.
 
-contact us at:
+contact us at; and I read every email:
 
 Email: headwateraistudio@outlook.com
 
