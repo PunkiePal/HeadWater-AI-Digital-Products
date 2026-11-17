@@ -7,7 +7,7 @@ This engine provides a controlled runtime sanitation layer designed to enforce p
 The runtime engine applies controlled prompt-gateway processing, enforces a defined 400-word limit, and provides processing status and error reporting through its execution interface.
 
 [![Free Sample](https://img.shields.io/badge/Free_Sample-Download-brightgreen)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/headwater_hf_live_sanitation_runtime_sample.zip)
-[![Buy License ](https://img.shields.io/badge/Buy_License-$99.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/P6XZE)
+[![Buy License ](https://img.shields.io/badge/Buy_License-$29.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/P6XZE)
 
 ## You Can Have it Now
 
@@ -99,4 +99,4 @@ To learn more about HeadWater & HeadWater's AI Digital Products Division, [click
 
 ### 🚀 Get Started Today
 
-[Click here to purchase $99.00 engine](https://payhip.com/b/P6XZE)
+[Click here to purchase $29.00 engine](https://payhip.com/b/P6XZE)
