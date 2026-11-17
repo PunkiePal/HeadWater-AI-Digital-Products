@@ -6,7 +6,7 @@ Enterprise-grade standalone executable Python product engineered to automate dat
 
 
 [![Free Sample](https://img.shields.io/badge/DOWNLOAD-FREE_SAMPLE-brightgreen?style=for-the-badge&logo=github)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/headwater_hf_data_preparation_sample.zip)
-[![Buy License ](https://img.shields.io/badge/Buy_License-$269.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/u0nR8)
+[![Buy License ](https://img.shields.io/badge/Buy_License-$49.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/u0nR8)
 
 ## YOU CAN HAVE IT NOW
 
@@ -77,4 +77,4 @@ Contact us; and I read every email: [headwateraistudio@outlook.com](mailto:headw
 
 
 ### 🚀 Get Started Today
-👉 **[Purchase Commercial License $269.00 for instant download](https://payhip.com/b/u0nR8)**
+👉 **[Purchase Commercial License $49.00 for instant download](https://payhip.com/b/u0nR8)**
