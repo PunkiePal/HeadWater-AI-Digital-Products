@@ -11,13 +11,13 @@
 
 Additional product information and resources will be organized here as the portfolio develops.
 
-Company and Product Information
+Business and Product Information
 
-This repository serves as a public information and documentation hub for HeadWater AI Digital Products and future community. It provides company information and links to individual product resources.
+This repository serves as a public information and documentation hub for HeadWater AI Digital Products and future community. It provides business information and links to individual product resources.
 
 Customers should consult each product's own documentation and licensing information for its specific scope, intended use, requirements, and terms of purchase.
 
-contact us at; and I read every email:
+contact us; and I read every email:
 
 Email: headwateraistudio@outlook.com
 
