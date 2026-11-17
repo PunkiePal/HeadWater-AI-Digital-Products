@@ -1,6 +1,6 @@
-**About HeadWater's AI Digital Products**
+# About HeadWater's AI Digital Products
 
-# Product Directory
+**Product Directory**
 
 **Explore the individual product pages and their associated information:**
 
