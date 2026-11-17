@@ -79,7 +79,7 @@ Skip weeks of custom regex development, parsing logic implementation, and pipeli
 
 ---
 
-Contact us and I read every email: [headwateraistudio@outlook.com](mailto:headwateraistudio@outlook.com)
+Contact us; and I read every email: [headwateraistudio@outlook.com](mailto:headwateraistudio@outlook.com)
 
 [Learn more about HeadWater's AI Digital Products Division](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md)
 
