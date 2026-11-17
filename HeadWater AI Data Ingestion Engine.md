@@ -7,7 +7,7 @@
 
 
 [![Free Sample](https://img.shields.io/badge/Free_Sample-Download-brightgreen)](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/headwater_hf_ai_data_ingestion_sample.zip)
-[![Buy License ](https://img.shields.io/badge/Buy_License-$229.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/lmFL9)
+[![Buy License ](https://img.shields.io/badge/Buy_License-$49.00-success?style=for-the-badge&logo=payhip)](https://payhip.com/b/lmFL9)
 
 ---
 
@@ -87,4 +87,4 @@ Contact us; and I read every email: [headwateraistudio@outlook.com](mailto:headw
 ---
 
 ### 🚀 Get Started Today
-👉 **[Purchase Commercial License $229.00 for instant download](https://payhip.com/b/lmFL9)**
+👉 **[Purchase Commercial License $49.00 for instant download](https://payhip.com/b/lmFL9)**
