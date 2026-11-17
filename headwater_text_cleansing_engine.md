@@ -75,4 +75,4 @@ One-time purchase, no monthly fees, no annual subscriptions, no recurring charge
 ---
 
 ### 🚀 Get Started Today
-👉 **[Purchase Commercial License $189.00 for instant download](https://payhip.com/b/vmcjQ)**
+👉 **[Purchase Commercial License $39.00 for instant download](https://payhip.com/b/vmcjQ)**
