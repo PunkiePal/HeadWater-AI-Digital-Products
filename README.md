@@ -13,7 +13,7 @@ Additional product information and resources will be organized here as the portf
 
 Company and Product Information
 
-This repository serves as a public information and documentation hub for HeadWater AI Digital Products. It provides company information and links to individual product resources.
+This repository serves as a public information and documentation hub for HeadWater AI Digital Products and future community. It provides company information and links to individual product resources.
 
 Customers should consult each product's own documentation and licensing information for its specific scope, intended use, requirements, and terms of purchase.
 
