@@ -93,7 +93,7 @@ One-time purchase, no monthly fees, no annual subscriptions, no recurring charge
 * **Where:** Inside your own infrastructure, as a standalone Python engine that you control and operate within your environment.
 * **Why:** Save weeks of development time by purchasing the complete runtime engine. Save the time of designing, developing, troubleshooting, testing, and integrating live system sanitation.
 
-Contact us and I read every email: headwateraistudio@outlook.com
+Contact us; and I read every email: headwateraistudio@outlook.com
 
 To learn more about HeadWater & HeadWater's AI Digital Products Division, [click here](https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/README.md).
 
